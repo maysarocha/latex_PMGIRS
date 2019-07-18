@@ -1,0 +1,25 @@
+\newcommand\capaimageheight{\paperheight}
+
+\newsavebox{\capaimage}
+\sbox\capaimage{%
+	\tikz{
+		\clip(0,0)rectangle(\paperwidth,-\paperheight);
+		\node[inner sep=0pt,outer sep=0pt,anchor=north west]{%
+			\includegraphics[width=\paperwidth, height=\paperheight]{src/layout/capa}};
+	}%
+}
+
+\DeclareNewLayer[
+background,
+area={0pt}{0pt}{\paperwidth}{\paperheight},
+contents={\usebox\capaimage}
+]{capaimage}
+
+\DeclarePageStyleByLayers{capalayimage}{%
+	capaimage
+}
+\thispagestyle{capalayimage}
+{\phantom{capa}}\thispagestyle{capalayimage}
+\pagebreak
+
+\clearpage

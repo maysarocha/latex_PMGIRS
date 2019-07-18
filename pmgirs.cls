@@ -1,0 +1,357 @@
+\LoadClass{memoir}
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesClass{pmgirs}[2019/06/11 Modelo PMGIRS]
+
+\usepackage[T1]{fontenc} 
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{titlesec}
+\usepackage{tikz}
+\usepackage{scrlayer}
+\usepackage[brazil]{babel}
+\usepackage{calc}
+\usepackage{leading}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{longtable,ltcaption}
+\RequirePackage{ifthen}
+\usepackage{appendix}
+\usepackage{tocloft}
+
+\newcommand{\folhaderostoname}{Folha de rosto}
+\newcommand{\epigraphname}{Ep\'igrafe}
+\newcommand{\dedicatorianame}{Dedicat\'oria}
+\newcommand{\errataname}{Errata}
+\newcommand{\agradecimentosname}{Agradecimentos}
+\newcommand{\anexoname}{ANEXO}
+\newcommand{\anexosname}{Anexos}
+\newcommand{\apendicename}{AP\^ENDICE}
+\newcommand{\apendicesname}{Ap\^endices}
+\newcommand{\orientadorname}{Orientador:}
+\newcommand{\coorientadorname}{Coorientador:}
+\newcommand{\folhadeaprovacaoname}{Folha de aprova\c{c}\~ao}
+\newcommand{\resumoname}{Resumo} 
+\newcommand{\listadesiglasname}{Lista de abreviaturas e siglas}
+\newcommand{\listadesimbolosname}{Lista de s\'imbolos}
+\newcommand{\fontename}{Fonte}
+\newcommand{\notaname}{Nota}
+
+\addto\captionsbrazil{
+	%% ajusta nomes padroes do babel
+	\renewcommand{\bibname}{Refer\^encias}
+	\renewcommand{\indexname}{\'Indice}
+	\renewcommand{\listfigurename}{Lista de ilustra\c{c}\~{o}es}
+	\renewcommand{\listtablename}{Lista de tabelas}
+	%% ajusta nomes usados com a macro \autoref
+	\renewcommand{\pageautorefname}{p\'agina}
+	\renewcommand{\sectionautorefname}{se{\c c}\~ao}
+	\renewcommand{\subsectionautorefname}{subse{\c c}\~ao}
+	\renewcommand{\paragraphautorefname}{par\'agrafo}
+	\renewcommand{\subsubsectionautorefname}{subse{\c c}\~ao}
+	\renewcommand{\paragraphautorefname}{subse{\c c}\~ao}
+}
+
+\renewcommand{\printtoctitle}{\centering\LARGE\bfseries}
+
+\setlist{leftmargin=2cm}
+
+\newcommand*{\BeginNoToc}{%
+	\addtocontents{toc}{%
+		\edef\protect\SavedTocDepth{\protect\the\protect\value{tocdepth}}%
+	}%
+	\addtocontents{toc}{%
+		\protect\setcounter{tocdepth}{-10}%
+	}%
+}
+\newcommand*{\EndNoToc}{%
+	\addtocontents{toc}{%
+		\protect\setcounter{tocdepth}{\protect\SavedTocDepth}%
+	}%
+}
+
+% ---
+%Definição do layout da pagina
+% ---
+\geometry{
+	a4paper,
+	total={150mm,250mm},
+	left=30mm,
+	top=25mm,
+	bottom=55mm,
+	right=30mm
+}
+% ---
+%Modificação da fonte
+% ---
+\renewcommand{\rmdefault}{phv} % Arial
+\renewcommand{\sfdefault}{phv} % Arial
+
+% ---
+%Header e Footer -- Estilo de pagina
+% ---
+\newcommand\headimageheight{1cm}
+\newcommand\footimageheight{2cm}
+\newcommand\seplineheight{.2cm}
+
+\newsavebox{\headimage}
+\sbox\headimage{%
+	\tikz{
+		\clip(0,0)rectangle(\paperwidth,-\headimageheight);
+		\node[inner sep=0pt,outer sep=0pt,anchor=north west]{%
+			\includegraphics[width=\paperwidth]{src/layout/header}};
+	}%
+}
+
+\newsavebox{\footimage}
+\sbox\footimage{%
+	\tikz{
+		\clip(-2.8,0.3)rectangle(\paperwidth,-\footimageheight);
+		\node[inner sep=0cm,outer sep=-0.3cm,anchor=north west]{%
+			\includegraphics[width=16cm,height=1.75cm]{src/layout/bottom}};
+	}%
+}
+
+\DeclareNewLayer[
+background,
+area={0pt}{0pt}{\paperwidth}{\headimageheight},
+contents={%
+	\parbox[c][\layerheight]{\layerwidth}{%
+		\vspace*{\stretch{2}}
+		\vspace*{\stretch{1}}}%
+	%}%
+}
+]{headtext}
+
+\DeclareNewLayer[
+clone=headtext,
+addheight=\seplineheight,
+contents={\usebox\headimage}
+]{headimage}
+
+\DeclareNewLayer[
+background,
+align=b,
+area={0pt}{\paperheight}{\paperwidth}{\footimageheight}
+]{foottext}
+
+\DeclareNewLayer[
+clone=foottext,
+addheight=\seplineheight,
+contents={\parbox{\layerwidth}{\usebox\footimage}}
+]{footimage}
+
+\DeclarePageStyleByLayers{headfootimage}{%
+	headimage,%
+	footimage%
+}
+% ---
+%Fim de estilo de página
+% ---
+% ---
+%definição do estilo para todas as páginas.
+% ---
+\pagestyle{headfootimage}
+
+% -----
+% Configuracoes do TOC
+% -----
+% nivel de profundidade (implementa o quinto nivel - subsubsubsection)
+\setsecnumdepth{paragraph}
+\settocdepth{paragraph}
+\setcounter{tocdepth}{5}
+\setcounter{secnumdepth}{5}
+\maxsecnumdepth{paragraph}
+
+
+% redefine os comandos *paragraph* para *subsubsubsection* ****
+\newcommand{\subsubsubsection}{\paragraph}
+\newcommand{\cftbeforesubsubsubsectionskip}{\cftbeforeparagraphskip}
+\newcommand{\cftsubsubsubsectionfont}{\cftparagraphfont}
+\newcommand{\setsubsubsubsecheadstyle}{\setparaheadstyle}
+
+\setafterparaskip{1.0\onelineskip plus 0.5\onelineskip minus 0.2\onelineskip}
+\setparaheadstyle{\normalfont\sffamily\raggedright}%
+
+% lista de ilustracoes
+\renewcommand{\cftfigurename}{\figurename\space} 
+\renewcommand*{\cftfigureaftersnum}{\hfill\textendash\hfill}
+ 
+% lista de tabelas  
+\renewcommand{\cfttablename}{\tablename\space}
+\renewcommand*{\cfttableaftersnum}{\hfill\textendash\hfill}	
+
+% ---
+% Espacamento entre linhas - NBR 14724/2011 - 5.2 Espacamento
+% ---
+\setlength{\parindent}{1.25cm}
+\setlength{\parskip}{0em}
+\renewcommand{\baselinestretch}{1.5}
+% ---
+% ---
+
+% ---
+% Seções
+% ---
+\counterwithout{section}{chapter}
+\counterwithout{figure}{chapter}
+\counterwithout{table}{chapter}
+
+
+
+%\titlespacing{\chapter}
+%{0pt}
+%{0pt plus 4pt minus 12pt}
+%{1.5em plus 2pt minus 2pt}
+
+\titleformat{\section}         % Customise the \section command 
+{\Large\bfseries\scshape\raggedright} % Make the \section headers large (\Large),
+% small capitals (\scshape) and left aligned (\raggedright)
+{\thesection}{1em}                      % Can be used to give a prefix to all sections, like 'Section ...'
+{\MakeUppercase}                           % Can be used to insert code before the heading
+
+%\titlespacing{\section}
+%{0pt}
+%{12pt plus 4pt minus 12pt}
+%{1.5em plus 2pt minus 2pt}
+
+\setsecnumdepth{subsubsection}
+
+\titleformat{\subsection}
+[hang]
+{\Large\bfseries\scshape\raggedright}
+{\thesubsection}{1em}
+{}
+
+%\titlespacing{\subsection}
+%{0pt}
+%{12pt plus 4pt minus 12pt}
+%{1.5em plus 2pt minus 2pt}
+
+\titleformat{\subsubsection}
+[hang]
+{\Large\bfseries\scshape\raggedright}
+{\thesubsubsection}{1em}
+{}
+
+%\titlespacing{\subsection}
+%{0pt}
+%{12pt plus 4pt minus 12pt}
+%{1.5em plus 2pt minus 2pt}
+
+% Novo list of (listings) para QUADROS
+
+\newcommand{\quadroname}{Quadro}
+\newcommand{\listofquadrosname}{\LARGE{Lista de quadros}}
+
+\newfloat[chapter]{quadro}{loq}{\quadroname}
+\newlistof{listofquadros}{loq}{\listofquadrosname}
+\newlistentry{quadro}{loq}{0}
+
+% configurações para atender às regras da ABNT
+\setfloatadjustment{quadro}{\centering}
+\counterwithout{quadro}{chapter}
+\renewcommand{\cftquadroname}{\quadroname\space} 
+\renewcommand*{\cftquadroaftersnum}{\hfill--\hfill}
+
+% Configuração de posicionamento padrão:
+\setfloatlocations{quadro}{hbtp}
+
+\newcommand{\tocpartapendices}{}
+\newcommand{\tocpartanexos}{}
+\cftinsertcode{A}{\renewcommand{\cftchapteraftersnum}{\hfill\textendash\hfill}}
+\renewcommand{\tocpartapendices}{%
+	\addtocontents{toc}{\cftsetindents{part}{\cftlastnumwidth}{2em}}
+	\cftinserthook{toc}{A}}
+\renewcommand{\tocpartanexos}{%
+	\addtocontents{toc}{\cftsetindents{part}{\cftlastnumwidth}{2em}}
+	\cftinserthook{toc}{A}}
+%
+
+% ------------------------------------------------------------------------
+% ------------------------------------------------------------------------
+% Comandos e ambientes de editoracao APENDICES e ANEXOS
+% ------------------------------------------------------------------------
+% ------------------------------------------------------------------------
+
+% ---
+% Definicoes compartilhadas entre Apendices e Anexos
+% ---
+\provideboolean{abntex@apendiceousecao}
+\setboolean{abntex@apendiceousecao}{false}
+\makeatletter
+\newcommand\@switch[1]{ \@writefile{toc}{\renewcommand*{\cftappendixname}{#1 \space}} }
+\newcommand{\switchchapname}[1]{ \protected@write \@auxout {}{\string\@switch{#1} }}
+\makeatother
+
+\newcommand{\PRIVATEapendiceconfig}[2]{%
+	\setboolean{abntex@apendiceousecao}{true}%
+	\renewcommand{\appendixname}{#1}
+	\renewcommand{\appendixtocname}{\uppercase{#2}}
+	\renewcommand{\appendixpagename}{#2}
+	\switchchapname{#1}% Corrected from \switchapname -> \switchchapname
+	\renewcommand*{\cftappendixname}{#1 \space}
+}
+% ---
+
+% ---
+% Apendices - comando 
+\newcommand{\apendices}{%
+	\PRIVATEapendiceconfig{\apendicename}{\apendicesname}
+	\appendix
+}
+% Apendices - ambiente
+\newenvironment{apendicesenv}{%
+	\PRIVATEapendiceconfig{\apendicename}{\apendicesname}
+	\begin{appendix}
+		\thispagestyle{headfootimage}
+	}{
+	\end{appendix}
+	\setboolean{abntex@apendiceousecao}{false}
+	\bookmarksetup{startatroot}
+}
+% ---
+
+% ---
+% Anexos - comando
+\newcommand{\anexos}{%
+	\cftinserthook{toc}{AAA}
+	
+	\PRIVATEapendiceconfig{\anexoname}{\anexosname}
+	\appendix
+	\renewcommand\theHchapter{anexochapback.\arabic{chapter}}
+}
+% Anexos - ambiente
+\newenvironment{anexosenv}{%
+	\cftinserthook{toc}{AAA}
+	
+	\PRIVATEapendiceconfig{\anexoname}{\anexosname}
+	\begin{appendix}
+		\renewcommand\theHchapter{anexochapback.\arabic{chapter}}
+	}{
+	\end{appendix}
+	\setboolean{abntex@apendiceousecao}{false}
+	\bookmarksetup{startatroot}
+}
+% ---
+
+% ---
+% Imprime uma pagina de divisao no estilo parte
+\newcommand{\partpage}{%
+	\phantomsection
+	\addcontentsline{toc}{part}{\appendixtocname}%
+	\appendixpage*
+}
+
+% atalhos para \partpage ou \appendixpage* 
+\makeatletter
+\newcommand{\partapendices}{%
+	\tocpartapendices%
+	\@ifstar{\appendixpage*}{\partpage}}
+
+\newcommand{\partanexos}{%
+	\tocpartanexos%
+	\@ifstar{\appendixpage*}{\partpage}}
+\makeatother
+% ---
+
