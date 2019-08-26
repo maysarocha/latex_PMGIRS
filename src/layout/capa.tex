@@ -20,6 +20,23 @@ contents={\usebox\capaimage}
 }
 \thispagestyle{capalayimage}
 {\phantom{capa}}\thispagestyle{capalayimage}
+
+\begin{tikzpicture}[remember picture,overlay]
+\node[anchor=south west,inner sep=0pt] at ($(current page.south west)+(2cm,25cm)$) {
+	\includegraphics[width=2.5cm]{src/layout/Brasao_Monteiro_Lobato}
+};
+\end{tikzpicture}
+
+
+\vspace{4cm}
+\begin{minipage}{0.9\textwidth}
+	\raggedleft
+	\color{white}
+	{\Huge \textbf{Município de Monteiro Lobato}\\}
+	\vspace{1em}
+	{\Huge \textbf{Produto 1- Legislação Preliminar}}
+\end{minipage}
+
 \pagebreak
 
 \clearpage
