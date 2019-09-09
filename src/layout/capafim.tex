@@ -1,0 +1,24 @@
+\newcommand\capafimimageheight{\paperheight}
+
+\newsavebox{\capafimimage}
+\sbox\capafimimage{%
+	\tikz{
+		\clip(0,0)rectangle(\paperwidth,-\paperheight);
+		\node[inner sep=0pt,outer sep=0pt,anchor=north west]{%
+			\includegraphics[width=\paperwidth, height=\paperheight]{src/layout/capafim}};
+	}%
+}
+
+\DeclareNewLayer[
+background,
+area={0pt}{0pt}{\paperwidth}{\paperheight},
+contents={\usebox\capafimimage}
+]{capafimimage}
+
+\DeclarePageStyleByLayers{capafimlayimage}{%
+	capafimimage
+}
+\thispagestyle{capafimlayimage}
+{\phantom{capafim}}\thispagestyle{capafimlayimage}
+
+\pagebreak

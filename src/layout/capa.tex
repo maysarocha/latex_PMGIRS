@@ -21,21 +21,55 @@ contents={\usebox\capaimage}
 \thispagestyle{capalayimage}
 {\phantom{capa}}\thispagestyle{capalayimage}
 
+\vspace{3.5cm}
+\begin{minipage}{0.75\paperwidth}
+	\raggedleft
+	{\large {\nomeProduto}\\}
+	\vspace{1em}
+	{\large {\nomeMunicipio}}
+\end{minipage}
+\justifying
 \begin{tikzpicture}[remember picture,overlay]
-\node[anchor=south west,inner sep=0pt] at ($(current page.south west)+(2cm,25cm)$) {
+\node[anchor=south west,inner sep=0pt] at ($(current page.south west)+(14cm,1.5cm)$) {
 	\includegraphics[width=2.5cm]{src/layout/Brasao_Monteiro_Lobato}
 };
 \end{tikzpicture}
 
+\begin{tikzpicture}[remember picture,overlay]
+\node[anchor=south west,inner sep=0pt] at ($(current page.south west)+(17.5cm,1cm)$) {
+	\includegraphics[width=2.5cm]{src/layout/logo_agevap}
+};
+\end{tikzpicture}
 
-\vspace{4cm}
-\begin{minipage}{0.9\textwidth}
-	\raggedleft
-	\color{white}
-	{\Huge \textbf{Município de Monteiro Lobato}\\}
-	\vspace{1em}
-	{\Huge \textbf{Produto 1- Legislação Preliminar}}
-\end{minipage}
+\pagebreak
+
+\pagestyle{headimage}
+
+\begin{center}
+	\vspace{2em}
+	Associação Pró-Gestão das Águas da Bacia Hidrográfica do Rio Paraíba do Sul\\
+	\vspace{10cm}
+	\textbf{{\Large PLANO MUNICIPAL DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE MONTEIRO LOBATO}\\}
+	\vspace{2em}
+	\textbf{{\Large \nomeProduto}}\\
+	\vfill
+	{\Large Resende, RJ\\
+	\mes / \ano}
+\end{center}
+
+\pagebreak
+
+\vspace*{\fill}%
+\raggedright
+{\textbf{PUBLICAÇÃO\\}
+\vspace{2em}
+Associação Pró-Gestão das Águas da Bacia Hidrográfica do Rio Paraíba do Sul – AGEVAP\\
+CNPJ: 05.422.000/0001-01\\
+Rua Elza da Silva Duarte, nº 48, loja 1, IA, Manejo\\
+Resende/RJ – CEP: 27.520-005\\
+Telefax: (24) 3355-8389\\
+Página Eletrônica: www.agevap.org.br\\
+E-mail:agevap@agevap.org.br}
 
 \pagebreak
 

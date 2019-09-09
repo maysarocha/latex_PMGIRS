@@ -1,13 +1,18 @@
-\LoadClass{memoir}
+\LoadClass[oneside]{memoir}
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{pmgirs}[2019/06/11 Modelo PMGIRS]
 
+\usepackage[nonumberlist,style=index,automake]{glossaries}%
+\usepackage{multicol}
+
+\usepackage{enumitem}	%pacote de controle de listas -enu­mer­ate, item­ize and de­scrip­tion
+\usepackage{textcomp}	%permite outros caracteres unicode como o símbolo de grau
+\usepackage{scrlayer-scrpage}
 \usepackage[T1]{fontenc} 
 \usepackage[utf8]{inputenc}
 \usepackage{geometry}
 \usepackage{titlesec}
 \usepackage{tikz}
-\usepackage{scrlayer}
 \usepackage[brazil]{babel}
 \usepackage{calc}
 \usepackage{leading}
@@ -18,6 +23,32 @@
 \RequirePackage{ifthen}
 \usepackage{appendix}
 \usepackage{tocloft}
+\usepackage{ragged2e}
+\usepackage{totalcount}
+
+\AtBeginDocument{\addtocontents{toc}{\protect\thispagestyle{headfootimage}}} 
+\AtBeginDocument{\addtocontents{lof}{\protect\thispagestyle{headfootimage}}} 
+\AtBeginDocument{\addtocontents{lot}{\protect\thispagestyle{headfootimage}}} 
+\AtBeginDocument{\addtocontents{gls}{\protect\thispagestyle{headfootimage}}}
+\AtBeginDocument{\addtocontents{ist}{\protect\thispagestyle{headfootimage}}}
+\AtBeginDocument{\addtocontents{loq}{\protect\thispagestyle{headfootimage}}} 
+\AtBeginDocument{\addtocontents{bbl}{\protect\thispagestyle{headfootimage}}} 
+
+
+\stockaiv
+\pageaiv
+%\settrims{0pt}{0pt}
+\setpagecc{\paperheight}{\paperwidth}{*}
+% just to keep \checkandfix... happy 
+\setlrmarginsandblock{3cm}{3cm}{*}
+\setulmarginsandblock{2cm}{3cm}{*}
+\checkandfixthelayout
+
+\setlength{\evensidemargin}{\oddsidemargin}
+
+\renewcommand*{\glsclearpage}{}
+
+\newcommand{\trecholei}[1]{\begin{adjustwidth}{0.5\textwidth}{0cm} #1 \end{adjustwidth}}
 
 \newcommand{\folhaderostoname}{Folha de rosto}
 \newcommand{\epigraphname}{Ep\'igrafe}
@@ -36,6 +67,10 @@
 \newcommand{\listadesimbolosname}{Lista de s\'imbolos}
 \newcommand{\fontename}{Fonte}
 \newcommand{\notaname}{Nota}
+\newcommand{\nomeProduto}{Produto X - Nome Produto}
+\newcommand{\nomeMunicipio}{Nome do Municipio}
+\newcommand{\mes}{Mês}
+\newcommand{\ano}{Ano}
 
 \addto\captionsbrazil{
 	%% ajusta nomes padroes do babel
@@ -53,6 +88,8 @@
 }
 
 \renewcommand{\printtoctitle}{\centering\LARGE\bfseries}
+\renewcommand{\printloftitle}{\centering\LARGE\bfseries}
+\renewcommand{\printlottitle}{\centering\LARGE\bfseries}
 
 \setlist{leftmargin=2cm}
 
@@ -90,6 +127,8 @@
 % ---
 %Header e Footer -- Estilo de pagina
 % ---
+
+
 \newcommand\headimageheight{1cm}
 \newcommand\footimageheight{2cm}
 \newcommand\seplineheight{.2cm}
@@ -141,17 +180,30 @@ addheight=\seplineheight,
 contents={\parbox{\layerwidth}{\usebox\footimage}}
 ]{footimage}
 
+\DeclareNewLayer[
+background,
+align=b,
+area={17.70cm}{28.73cm}{\paperwidth}{\footimageheight},
+contents={{\Large\textbf{\pagemark}}}
+]{footpage}
+
 \DeclarePageStyleByLayers{headfootimage}{%
-	headimage,%
-	footimage%
+	headimage,
+	footimage,
+	footpage
 }
+\DeclarePageStyleByLayers{headimage}{%
+	headimage
+}
+
+\setkomafont{pagenumber}{\color{white}}
 % ---
 %Fim de estilo de página
 % ---
 % ---
 %definição do estilo para todas as páginas.
 % ---
-\pagestyle{headfootimage}
+\pagestyle{empty}
 
 % -----
 % Configuracoes do TOC
@@ -205,21 +257,22 @@ contents={\parbox{\layerwidth}{\usebox\footimage}}
 %{1.5em plus 2pt minus 2pt}
 
 \titleformat{\section}         % Customise the \section command 
-{\Large\bfseries\scshape\raggedright} % Make the \section headers large (\Large),
+{\Large\bfseries\scshape\raggedright\color{title1}} % Make the \section headers large (\Large),
 % small capitals (\scshape) and left aligned (\raggedright)
 {\thesection}{1em}                      % Can be used to give a prefix to all sections, like 'Section ...'
 {\MakeUppercase}                           % Can be used to insert code before the heading
 
-%\titlespacing{\section}
-%{0pt}
-%{12pt plus 4pt minus 12pt}
-%{1.5em plus 2pt minus 2pt}
+\titlespacing* % starred version: first paragraph is not indented
+{\section} % <command>
+{1em} % <left>
+{3.5ex plus 1ex minus .2ex} % <before-sep>
+{2.3ex plus .2ex} % <after-sep>
 
 \setsecnumdepth{subsubsection}
 
 \titleformat{\subsection}
 [hang]
-{\Large\bfseries\scshape\raggedright}
+{\Large\bfseries\scshape\raggedright\color{title2}}
 {\thesubsection}{1em}
 {}
 
@@ -230,7 +283,7 @@ contents={\parbox{\layerwidth}{\usebox\footimage}}
 
 \titleformat{\subsubsection}
 [hang]
-{\Large\bfseries\scshape\raggedright}
+{\Large\bfseries\scshape\raggedright\color{title3}}
 {\thesubsubsection}{1em}
 {}
 
@@ -239,20 +292,23 @@ contents={\parbox{\layerwidth}{\usebox\footimage}}
 %{12pt plus 4pt minus 12pt}
 %{1.5em plus 2pt minus 2pt}
 
+\aliaspagestyle{chapter}{headfootimage}
+
 % Novo list of (listings) para QUADROS
 
 \newcommand{\quadroname}{Quadro}
-\newcommand{\listofquadrosname}{\LARGE{Lista de quadros}}
+\newcommand{\listofquadrosname}{\hfill\bfseries\Large Lista de Quadros\hfill}
 
 \newfloat[chapter]{quadro}{loq}{\quadroname}
 \newlistof{listofquadros}{loq}{\listofquadrosname}
-\newlistentry{quadro}{loq}{0}
+\newlistentry[chapter]{quadro}{loq}{0}
 
 % configurações para atender às regras da ABNT
 \setfloatadjustment{quadro}{\centering}
 \counterwithout{quadro}{chapter}
 \renewcommand{\cftquadroname}{\quadroname\space} 
 \renewcommand*{\cftquadroaftersnum}{\hfill--\hfill}
+
 
 % Configuração de posicionamento padrão:
 \setfloatlocations{quadro}{hbtp}
@@ -304,7 +360,7 @@ contents={\parbox{\layerwidth}{\usebox\footimage}}
 \newenvironment{apendicesenv}{%
 	\PRIVATEapendiceconfig{\apendicename}{\apendicesname}
 	\begin{appendix}
-		\thispagestyle{headfootimage}
+		%\thispagestyle{headfootimage}
 	}{
 	\end{appendix}
 	\setboolean{abntex@apendiceousecao}{false}
@@ -355,3 +411,10 @@ contents={\parbox{\layerwidth}{\usebox\footimage}}
 \makeatother
 % ---
 
+
+
+%COR DOS TITULOS
+
+\definecolor{title1}{RGB}{151,72,7}
+\definecolor{title2}{RGB}{227,108,10}
+\definecolor{title3}{RGB}{89,89,89}

@@ -1,63 +1,92 @@
-\documentclass[12pt]{pmgirs}
-\usepackage[nonumberlist,style=index,automake]{glossaries}%
-\usepackage{multicol}
+\documentclass[12pt,oneside]{pmgirs}
+
+
 \usepackage[alf]{abntex2cite}	% citacoes
+
 \usetikzlibrary{calc}
-\usepackage{enumitem}	%pacote de controle de listas -enu­mer­ate, item­ize and de­scrip­tion
-\usepackage{textcomp}	%permite outros caracteres unicode como o símbolo de grau
-
-\stockaiv
-\pageaiv
-%\settrims{0pt}{0pt}
-\setpagecc{\paperheight}{\paperwidth}{*}
-% just to keep \checkandfix... happy 
-\setlrmarginsandblock{3cm}{3cm}{*}
-\setulmarginsandblock{2cm}{3cm}{*}
-\checkandfixthelayout
-
-\setlength{\evensidemargin}{\oddsidemargin}
-
-\renewcommand*{\glsclearpage}{}
-
-\newcommand{\trecholei}[1]{\begin{adjustwidth}{0.5\textwidth}{0cm} #1 \end{adjustwidth}}
-
 \input{glossario.tex}
+\pagestyle{headfootimage}
 \makeglossaries
 \glsaddall
 \renewcommand{\arraystretch}{1.4} 
+
+%Customizar de Acordo com o produto a ser submetido
+
+\renewcommand{\nomeProduto}{Produto 1 - Legislação Preliminar}
+\renewcommand{\nomeMunicipio}{Monteiro Lobato} 
+\renewcommand{\mes}{Agosto }
+\renewcommand{\ano}{2019}
+
+\DeclareTotalCounter{figure}
+\DeclareTotalCounter{table}
+\DeclareTotalCounter{quadro}
+
 \begin{document}
+	% ------------
+	% Capa, Apresentacao e Detalhes.
+	% ------------
 	\include{src/layout/capa}
+	\pagestyle{headfootimage} %Estilo com Header e Footer
 	\input{src/layout/elaboracao}
+	\justifying % Texto Justificado
 	\include{src/basic/apresentacao}
+	% ------------
+	% Sumarios e Listas de conteudo (Não Alterar)
+	% ------------
 	\BeginNoToc
-\clearpage\begingroup\let\newpage\relax\printglossary[title=\bfseries\Large{LISTA DE SIGLAS E ABREVIAÇÕES}]\thispagestyle{headfootimage}\endgroup
+	\clearpage\begingroup\let\newpage\relax\printglossary[title={\protect\centering\bfseries\Large LISTA DE SIGLAS E ABREVIAÇÕES}]\endgroup
 	\clearpage
-	\listoffigures\thispagestyle{headfootimage}
+	\iftotalfigures
+	\listoffigures
+	\fi
 	\clearpage
-	%\listoftables\thispagestyle{headfootimage}
+	\iftotaltables
+	\listoftables
+	\fi
 	\clearpage
-	%\pdfbookmark[0]{\listofquadrosname}{loq}
-	\listofquadros*\thispagestyle{headfootimage}
+	\iftotalquadros
+	\listofquadros
+	\fi
 	\clearpage
 	\tableofcontents
 	\EndNoToc
+	% ------------
+	% FIM PRODUTOS
+	% ------------
 	\include{src/basic/introducao}
-	%\include{produtos/produm}
-	\include{produtos/prodtres}
-% ------
-%\addcontentsline{toc}{section}{Referências}
-\bibliography{pmgirs-bib}\thispagestyle{headfootimage}
-% ------
-
-
+	
+	% ------------
+	% PRODUTOS
+	% ------------
+	\include{produtos/produm}
+	%\include{produtos/prodtres}
+	% ------------
+	% FIM PRODUTOS
+	% ------------
+	
+\let\cleardoublepage\clearpage
+%% ------
+\addcontentsline{toc}{section}{Referências}
+\BeginNoToc
+\bibliography{pmgirs-bib} %Arquivo de Referencias (alterar Somente esse)
+\let\cleardoublepage\clearpage
+\EndNoToc
+%% ------
+%
+%
+\let\cleardoublepage\clearpage
+\addcontentsline{toc}{section}{Apêndices}
 \apendices
-\BeginNoToc
-\input{produm-apend}
-\EndNoToc
-
+	\BeginNoToc
+	\input{produm-apend}
+	\EndNoToc
+%
+\let\cleardoublepage\clearpage
+\addcontentsline{toc}{section}{Anexos}
 \anexos
-\BeginNoToc
-\input{produm-anexo}\thispagestyle{headfootimage}
-\EndNoToc
+	\BeginNoToc
+	\input{produm-anexo}\thispagestyle{headfootimage}
+	\EndNoToc
+	\include{src/layout/capafim}
 
 \end{document}

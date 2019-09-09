@@ -1,0 +1,116 @@
+\newcommand\headimageheight{1cm}
+\newcommand\footimageheight{2cm}
+\newcommand\seplineheight{.2cm}
+
+\newsavebox{\headimage}
+\sbox\headimage{%
+	\tikz{
+		\clip(0,0)rectangle(\paperwidth,-\headimageheight);
+		\node[inner sep=0pt,outer sep=0pt,anchor=north west]{%
+			\includegraphics[width=\paperwidth]{src/layout/header}};
+	}%
+}
+
+\newsavebox{\footimage}
+\sbox\footimage{%
+	\tikz{
+		\clip(-2.8,0.3)rectangle(\paperwidth,-\footimageheight);
+		\node[inner sep=0cm,outer sep=-0.3cm,anchor=north west]{%
+			{}};
+	}%
+	\tikz{
+		\clip(-2.8,0.3)rectangle(\paperwidth,-\footimageheight);
+		\node[inner sep=0cm,outer sep=-0.3cm,anchor=north west]{%
+			\includegraphics[width=16cm,height=1.75cm]{src/layout/bottom}};
+	}%
+}
+
+
+
+\DeclareNewLayer[
+background,
+area={0pt}{0pt}{\paperwidth}{\headimageheight},
+contents={%
+	\parbox[c][\layerheight]{\layerwidth}{%
+		\vspace*{\stretch{2}}
+		\vspace*{\stretch{1}}}%
+	%}%
+}
+]{headtext}
+
+\DeclareNewLayer[
+clone=headtext,
+addheight=\seplineheight,
+contents={\usebox\headimage}
+]{headimage}
+
+\DeclareNewLayer[
+background,
+align=b,
+area={0pt}{\paperheight}{\paperwidth}{\footimageheight}
+]{foottext}
+
+\DeclareNewLayer[
+clone=foottext,
+addheight=\seplineheight,
+contents={\parbox{\layerwidth}{\usebox\footimage}}
+]{footimage}
+
+\DeclarePageStyleByLayers{headfootimage}{%
+	headimage,%
+	footimage%
+}
+\DeclarePageStyleByLayers{headimage}{%
+	headimage
+}
+
+
+/////////////
+
+
+\newcommand\capaimageheight{\paperheight}
+
+\newsavebox{\capaimage}
+\sbox\capaimage{%
+	\tikz{
+		\clip(0,0)rectangle(\paperwidth,-\paperheight);
+		\node[inner sep=0pt,outer sep=0pt,anchor=north west]{%
+			\includegraphics[width=\paperwidth, height=\paperheight]{src/layout/capa}};
+	}%
+}
+
+\DeclareNewLayer[
+background,
+area={0pt}{0pt}{\paperwidth}{\paperheight},
+contents={\usebox\capaimage}
+]{capaimage}
+
+\DeclarePageStyleByLayers{capalayimage}{%
+	capaimage
+}
+\thispagestyle{capalayimage}
+{\phantom{capa}}\thispagestyle{capalayimage}
+
+\vspace{3.5cm}
+\begin{minipage}{0.75\paperwidth}
+	\raggedleft
+	{\large {\nomeProduto}\\}
+	\vspace{1em}
+	{\large {\nomeMunicipio}}
+\end{minipage}
+\justifying
+\begin{tikzpicture}[remember picture,overlay]
+\node[anchor=south west,inner sep=0pt] at ($(current page.south west)+(14cm,1.5cm)$) {
+	\includegraphics[width=2.5cm]{src/layout/Brasao_Monteiro_Lobato}
+};
+\end{tikzpicture}
+
+\begin{tikzpicture}[remember picture,overlay]
+\node[anchor=south west,inner sep=0pt] at ($(current page.south west)+(17.5cm,1cm)$) {
+	\includegraphics[width=2.5cm]{src/layout/logo_agevap}
+};
+\end{tikzpicture}
+
+
+\pagebreak
+
