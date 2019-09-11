@@ -1,6 +1,4 @@
 \documentclass[12pt,oneside]{pmgirs}
-
-
 \usepackage[alf]{abntex2cite}	% citacoes
 
 \usetikzlibrary{calc}
@@ -9,17 +7,13 @@
 \makeglossaries
 \glsaddall
 \renewcommand{\arraystretch}{1.4} 
-
+\setlength{\parindent}{0cm}
 %Customizar de Acordo com o produto a ser submetido
 
 \renewcommand{\nomeProduto}{Produto 1 - Legislação Preliminar}
 \renewcommand{\nomeMunicipio}{Monteiro Lobato} 
 \renewcommand{\mes}{Agosto }
 \renewcommand{\ano}{2019}
-
-\DeclareTotalCounter{figure}
-\DeclareTotalCounter{table}
-\DeclareTotalCounter{quadro}
 
 \begin{document}
 	% ------------
@@ -58,7 +52,8 @@
 	% ------------
 	% PRODUTOS
 	% ------------
-	\include{produtos/produm}
+	%\include{produtos/produm}
+	\include{produtos/proddois}
 	%\include{produtos/prodtres}
 	% ------------
 	% FIM PRODUTOS
@@ -78,14 +73,14 @@
 \addcontentsline{toc}{section}{Apêndices}
 \apendices
 	\BeginNoToc
-	\input{produm-apend}
+	%\input{produm-apend}
 	\EndNoToc
 %
 \let\cleardoublepage\clearpage
 \addcontentsline{toc}{section}{Anexos}
 \anexos
 	\BeginNoToc
-	\input{produm-anexo}\thispagestyle{headfootimage}
+	%\input{produm-anexo}\thispagestyle{headfootimage}
 	\EndNoToc
 	\include{src/layout/capafim}
 

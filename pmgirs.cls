@@ -26,6 +26,10 @@
 \usepackage{ragged2e}
 \usepackage{totalcount}
 
+\DeclareTotalCounter{figure}
+\DeclareTotalCounter{table}
+\DeclareTotalCounter{quadro}
+
 \AtBeginDocument{\addtocontents{toc}{\protect\thispagestyle{headfootimage}}} 
 \AtBeginDocument{\addtocontents{lof}{\protect\thispagestyle{headfootimage}}} 
 \AtBeginDocument{\addtocontents{lot}{\protect\thispagestyle{headfootimage}}} 
@@ -236,8 +240,8 @@ contents={{\Large\textbf{\pagemark}}}
 % ---
 % Espacamento entre linhas - NBR 14724/2011 - 5.2 Espacamento
 % ---
-\setlength{\parindent}{1.25cm}
-\setlength{\parskip}{0em}
+\setlength{\parindent}{0cm}
+\setlength{\parskip}{24pt}
 \renewcommand{\baselinestretch}{1.5}
 % ---
 % ---
@@ -255,25 +259,62 @@ contents={{\Large\textbf{\pagemark}}}
 %{0pt}
 %{0pt plus 4pt minus 12pt}
 %{1.5em plus 2pt minus 2pt}
+\makeatletter
+\renewcommand{\section}{\@startsection{section}
+	{1}
+	{-0.75cm}
+	{1.5em}
+	{24pt}
+	{\Large\bfseries\raggedright\color{title1}}}
+
+\renewcommand{\subsection}{\@startsection{subsection}
+	{2}
+	{0cm}
+	{1.5em}
+	{1em}
+	{\Large\bfseries\raggedright\color{title2}}}
+
+\renewcommand{\subsubsection}{\@startsection{subsubsection}
+	{3}
+	{1cm}
+	{1.5em}
+	{1em}
+	{\Large\bfseries\raggedright\color{title3}}}
+\makeatother
+
+\let\svsection\section
+\let\svsubsection\subsection
+\let\svsubsubsection\subsubsection
+\def\section{\leftskip 0ex\svsection}
+\def\subsection{\leftskip 1cm\svsubsection}
+\def\subsubsection{\leftskip 2.22cm\svsubsubsection}
 
 \titleformat{\section}         % Customise the \section command 
 {\Large\bfseries\scshape\raggedright\color{title1}} % Make the \section headers large (\Large),
 % small capitals (\scshape) and left aligned (\raggedright)
 {\thesection}{1em}                      % Can be used to give a prefix to all sections, like 'Section ...'
-{\MakeUppercase}                           % Can be used to insert code before the heading
+{}                           % Can be used to insert code before the heading
 
-\titlespacing* % starred version: first paragraph is not indented
-{\section} % <command>
-{1em} % <left>
-{3.5ex plus 1ex minus .2ex} % <before-sep>
-{2.3ex plus .2ex} % <after-sep>
+
+
+%\titlespacing % starred version: first paragraph is not indented
+%{\section} % <command>
+%{-0.75cm} % <left>
+%{0pt} % <before-sep>
+%{0em} % <after-sep>
+%
+%\titlespacing* % starred version: first paragraph is not indented
+%{\section} % <command>
+%{-0.75cm} % <left>
+%{0pt} % <before-sep>
+%{0em} % <after-sep>
 
 \setsecnumdepth{subsubsection}
 
 \titleformat{\subsection}
 [hang]
 {\Large\bfseries\scshape\raggedright\color{title2}}
-{\thesubsection}{1em}
+{\llap{\thesubsection}}{1em}
 {}
 
 %\titlespacing{\subsection}

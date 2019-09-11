@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.4)  9 SEP 2019 17:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.4)  10 SEP 2019 16:05
 entering extended mode
 **./main.tex
 (main.tex
@@ -1458,6 +1458,10 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 .sty"
 Package: totalcount 2018/01/21 v1.0a Total values of counters (AR)
 )
+\c@totalcount@figure=\count301
+\c@totalcount@table=\count302
+\c@totalcount@quadro=\count303
+
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -1490,16 +1494,16 @@ Package geometry Warning: Over-specification in `v'-direction.
 <src/layout/header.png, id=4, 1865.46938pt x 54.2025pt>
 File: src/layout/header.png Graphic file (type png)
 <use src/layout/header.png>
-Package pdftex.def Info: src/layout/header.png  used on input line 143.
+Package pdftex.def Info: src/layout/header.png  used on input line 147.
 (pdftex.def)             Requested size: 597.50787pt x 17.36086pt.
 \footimage=\box79
 <src/layout/bottom.png, id=5, 1800.7275pt x 228.855pt>
 File: src/layout/bottom.png Graphic file (type png)
 <use src/layout/bottom.png>
-Package pdftex.def Info: src/layout/bottom.png  used on input line 152.
+Package pdftex.def Info: src/layout/bottom.png  used on input line 156.
 (pdftex.def)             Requested size: 455.23651pt x 49.78952pt.
-\c@quadro=\count301
-\c@loqdepth=\count302
+\c@quadro=\count304
+\c@loqdepth=\count305
 \cftbeforequadroskip=\skip289
 \cftquadroindent=\skip290
 \cftquadronumwidth=\skip291
@@ -1512,8 +1516,8 @@ Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
 ev.sty")
 \minimumbiblabelwidth=\skip292
 \ABCIauxlen=\skip293
-\c@ABCIaux=\count303
-\c@ABCImax=\count304
+\c@ABCIaux=\count306
+\c@ABCImax=\count307
 
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/relsize\relsize.st
 y"
@@ -1532,43 +1536,40 @@ File: tikzlibrarycalc.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 \glo@main@file=\write6
 \openout6 = `main.glo'.
 
-Package glossaries Info: Writing glossary file main.glo on input line 9.
-\c@totalcount@figure=\count305
-\c@totalcount@table=\count306
-\c@totalcount@quadro=\count307
+Package glossaries Info: Writing glossary file main.glo on input line 7.
  (main.aux
 (src/layout/capa.aux) (src/basic/apresentacao.aux) (src/basic/introducao.aux)
-(produtos/produm.aux) (src/layout/capafim.aux))
+(produtos/proddois.aux) (src/layout/capafim.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 18.
 
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 24.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 18.
 
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 Package scrlayer Info: Setting magic \footheight to \baselineskip while
-(scrlayer)             \begin{document} on input line 24.
+(scrlayer)             \begin{document} on input line 18.
 
 
 Package scrlayer-scrpage Warning: Very small head height detected!
@@ -1648,7 +1649,7 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 \AtBeginShipoutBox=\box81
-Package hyperref Info: Link coloring OFF on input line 24.
+Package hyperref Info: Link coloring OFF on input line 18.
 
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -1660,37 +1661,37 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count314
 )
-LaTeX Info: Redefining \ref on input line 24.
-LaTeX Info: Redefining \pageref on input line 24.
-LaTeX Info: Redefining \nameref on input line 24.
+LaTeX Info: Redefining \ref on input line 18.
+LaTeX Info: Redefining \pageref on input line 18.
+LaTeX Info: Redefining \nameref on input line 18.
  (main.out) (main.out)
 \@outlinefile=\write7
 \openout7 = `main.out'.
 
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 24.
+LaTeX Info: Redefining \selectfont on input line 18.
 \openout2 = `src/layout/capa.aux'.
 
 
 (src/layout/capa.tex
 \capaimage=\box82
-<src/layout/capa.png, id=2607, 597.9138pt x 845.0772pt>
+<src/layout/capa.png, id=154, 597.9138pt x 845.0772pt>
 File: src/layout/capa.png Graphic file (type png)
 <use src/layout/capa.png>
 Package pdftex.def Info: src/layout/capa.png  used on input line 10.
 (pdftex.def)             Requested size: 597.53827pt x 845.04933pt.
-<src/layout/Brasao_Monteiro_Lobato.jpg, id=2608, 145.54375pt x 160.6pt>
+<src/layout/Brasao_Monteiro_Lobato.jpg, id=155, 145.54375pt x 160.6pt>
 File: src/layout/Brasao_Monteiro_Lobato.jpg Graphic file (type jpg)
 <use src/layout/Brasao_Monteiro_Lobato.jpg>
 Package pdftex.def Info: src/layout/Brasao_Monteiro_Lobato.jpg  used on input l
 ine 34.
 (pdftex.def)             Requested size: 71.13188pt x 78.49127pt.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 25--37
+Overfull \hbox (21.33955pt too wide) in paragraph at lines 25--37
 []$[]$
  []
 
-<src/layout/logo_agevap.png, id=2609, 77.1975pt x 112.0185pt>
+<src/layout/logo_agevap.png, id=156, 77.1975pt x 112.0185pt>
 File: src/layout/logo_agevap.png Graphic file (type png)
 <use src/layout/logo_agevap.png>
 Package pdftex.def Info: src/layout/logo_agevap.png  used on input line 40.
@@ -1725,7 +1726,12 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[5])
+[5]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[6])
 \openout2 = `src/basic/apresentacao.aux'.
 
  (src/basic/apresentacao.tex
@@ -1733,11 +1739,16 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[6
+[7
 
 
 ]
-Overfull \hbox (26.05008pt too wide) in paragraph at lines 37--38
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[8]
+Overfull \hbox (26.05008pt too wide) in paragraph at lines 34--35
 []\T1/phv/m/n/10 Roteiros para con-cre-ti-za-ção das in-ter-ven-ções se-le-ci-o
 -na-das (mo-de-los tático-operacionais),
  []
@@ -1747,7 +1758,7 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[7] (main.gls
+[9] (main.gls
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 1.
 )
@@ -1755,102 +1766,43 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[8
+[10
 
 
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 41.
- (main.lof
-Overfull \hbox (1.17978pt too wide) detected at line 6
- \T1/phv/m/n/10 125
- []
-
-
-Overfull \hbox (1.17978pt too wide) detected at line 7
- \T1/phv/m/n/10 126
- []
-
-
-Overfull \hbox (1.17978pt too wide) detected at line 8
- \T1/phv/m/n/10 127
- []
-
-
-Overfull \hbox (1.17978pt too wide) detected at line 9
- \T1/phv/m/n/10 129
- []
-
-
-Overfull \hbox (1.17978pt too wide) detected at line 10
- \T1/phv/m/n/10 130
- []
-
-)
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[9
-
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 49.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hfill' on input line 49.
-
-(main.loq)
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[10
-
-
-] (main.toc
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 35.
+ (main.lof)
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [11
 
-]
-Overfull \hbox (1.17978pt too wide) detected at line 647
- \T1/phv/m/n/10 120
- []
-
-)
+] (main.toc
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[12]
+[12
+
+
+
+])
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[13]
 \openout2 = `src/basic/introducao.aux'.
 
- (src/basic/introducao.tex
-LaTeX Font Info:    Font shape `T1/phv/bx/sc' in size <12> not available
-(Font)              Font shape `T1/phv/b/sc' tried instead on input line 1.
-)
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[13
-
-]
-\openout2 = `produtos/produm.aux'.
-
- (produtos/produm.tex
+ (src/basic/introducao.tex)
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [14
-
 
 ]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
@@ -1858,135 +1810,153 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
  []
 
 [15]
-Overfull \hbox (25.19997pt too wide) in alignment at lines 28--33
- [] [] 
- []
+\openout2 = `produtos/proddois.aux'.
 
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 35.
-
-Overfull \hbox (25.19997pt too wide) in alignment at lines 33--39
- [] [] 
- []
-
-
-Overfull \hbox (25.19997pt too wide) in alignment at lines 39--42
- [] [] 
- []
-
-
-Overfull \hbox (25.19997pt too wide) in alignment at lines 42--44
- [] [] 
- []
-
-
-Overfull \hbox (25.19997pt too wide) in alignment at lines 44--76
- [] [] 
- []
-
+ (produtos/proddois.tex
+<produtos/proddois/image16.png, id=299, 506.89375pt x 341.275pt>
+File: produtos/proddois/image16.png Graphic file (type png)
+<use produtos/proddois/image16.png>
+Package pdftex.def Info: produtos/proddois/image16.png  used on input line 9.
+(pdftex.def)             Requested size: 426.79135pt x 287.35121pt.
 
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[16]
+[16
+
+
+ <./produtos/proddois/image16.png>]
+<produtos/proddois/image17.png, id=306, 390.45876pt x 524.96124pt>
+File: produtos/proddois/image17.png Graphic file (type png)
+<use produtos/proddois/image17.png>
+Package pdftex.def Info: produtos/proddois/image17.png  used on input line 19.
+(pdftex.def)             Requested size: 384.1096pt x 516.44505pt.
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[17]
+[17 <./produtos/proddois/image17.png>]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [18]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[19]
-Overfull \hbox (25.19997pt too wide) in alignment at lines 112--117
- [] [] 
- []
-
-
-Overfull \hbox (25.19997pt too wide) in alignment at lines 117--123
- [] [] 
- []
+<produtos/proddois/image18.png, id=318, 339.2675pt x 174.6525pt>
+File: produtos/proddois/image18.png Graphic file (type png)
+<use produtos/proddois/image18.png>
+Package pdftex.def Info: produtos/proddois/image18.png  used on input line 41.
+(pdftex.def)             Requested size: 341.43437pt x 175.77402pt.
+<produtos/proddois/image19.png, id=319, 230.8625pt x 163.61125pt>
+File: produtos/proddois/image19.png Graphic file (type png)
+<use produtos/proddois/image19.png>
+Package pdftex.def Info: produtos/proddois/image19.png  used on input line 49.
+(pdftex.def)             Requested size: 341.43437pt x 241.99104pt.
 
 
-Overfull \hbox (25.19997pt too wide) in alignment at lines 123--126
- [] [] 
- []
-
-
-Overfull \hbox (25.19997pt too wide) in alignment at lines 126--128
- [] [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--167
-[]|\T1/phv/m/n/10 Constituição Es-ta-dual de
- []
-
-
-Overfull \hbox (25.19997pt too wide) in alignment at lines 128--168
- [] [] 
- []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[20]
-Underfull \hbox (badness 1635) in paragraph at lines 169--170
-\T1/phv/m/n/10 XV  des-car-re-gar, lan-çar, der-ru-bar, de-po-si-tar ou aban-d
-o-nar,
+[19 <./produtos/proddois/image18.png>]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
  []
 
-
-Underfull \hbox (badness 2111) in paragraph at lines 169--170
-\T1/phv/m/n/10 em qual-quer parte da es-trada, su-cata, lixo, en-tu-lho, le-nha
-,
- []
-
-
-Overfull \hbox (25.19997pt too wide) in alignment at lines 168--207
- [] [] 
- []
-
-
+[20 <./produtos/proddois/image19.png>]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [21]
+<produtos/proddois/image20.png, id=338, 428.60126pt x 268.00125pt>
+File: produtos/proddois/image20.png Graphic file (type png)
+<use produtos/proddois/image20.png>
+Package pdftex.def Info: produtos/proddois/image20.png  used on input line 84.
+(pdftex.def)             Requested size: 362.77525pt x 226.84113pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<produtos/proddois/image21.png, id=339, 393.47pt x 257.96375pt>
+File: produtos/proddois/image21.png Graphic file (type png)
+<use produtos/proddois/image21.png>
+Package pdftex.def Info: produtos/proddois/image21.png  used on input line 92.
+(pdftex.def)             Requested size: 362.77525pt x 237.83728pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<produtos/proddois/image22.png, id=340, 413.545pt x 221.82875pt>
+File: produtos/proddois/image22.png Graphic file (type png)
+<use produtos/proddois/image22.png>
+Package pdftex.def Info: produtos/proddois/image22.png  used on input line 100.
+
+(pdftex.def)             Requested size: 362.77525pt x 194.60062pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<produtos/proddois/image23.png, id=342, 360.34625pt x 180.675pt>
+File: produtos/proddois/image23.png Graphic file (type png)
+<use produtos/proddois/image23.png>
+Package pdftex.def Info: produtos/proddois/image23.png  used on input line 111.
+
+(pdftex.def)             Requested size: 362.77525pt x 181.89308pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [22]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
 
-[23]
-Overfull \hbox (25.19997pt too wide) in alignment at lines 207--247
- [] [] 
- []
+LaTeX Warning: Text page 23 contains only floats.
 
 
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[24]
+[23 <./produtos/proddois/image20.png> <./produtos/proddois/image21.png>]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[25]
+[24 <./produtos/proddois/image22.png> <./produtos/proddois/image23.png>]
+<produtos/proddois/image24.png, id=361, 428.60126pt x 252.945pt>
+File: produtos/proddois/image24.png Graphic file (type png)
+<use produtos/proddois/image24.png>
+Package pdftex.def Info: produtos/proddois/image24.png  used on input line 122.
+
+(pdftex.def)             Requested size: 362.77525pt x 214.09724pt.
+<produtos/proddois/image25.png, id=362, 428.60126pt x 273.02pt>
+File: produtos/proddois/image25.png Graphic file (type png)
+<use produtos/proddois/image25.png>
+Package pdftex.def Info: produtos/proddois/image25.png  used on input line 130.
+
+(pdftex.def)             Requested size: 362.77525pt x 231.0891pt.
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[25 <./produtos/proddois/image24.png> <./produtos/proddois/image25.png>]
+<produtos/proddois/image26.png, id=371, 390.45876pt x 207.77625pt>
+File: produtos/proddois/image26.png Graphic file (type png)
+<use produtos/proddois/image26.png>
+Package pdftex.def Info: produtos/proddois/image26.png  used on input line 150.
+
+(pdftex.def)             Requested size: 426.79135pt x 227.12154pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
@@ -1996,22 +1966,33 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[27]
+[27 <./produtos/proddois/image26.png>]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [28]
+<produtos/proddois/image27.png, id=386, 388.45125pt x 522.95375pt>
+File: produtos/proddois/image27.png Graphic file (type png)
+<use produtos/proddois/image27.png>
+Package pdftex.def Info: produtos/proddois/image27.png  used on input line 164.
+
+(pdftex.def)             Requested size: 426.79135pt x 574.58061pt.
+
+
+LaTeX Warning: Float too large for page by 7.26071pt on input line 168.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[29]
-Overfull \hbox (25.19997pt too wide) in alignment at lines 247--287
- [] [] 
- []
+[29
 
-
+]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2021,43 +2002,59 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[31]
+[31 <./produtos/proddois/image27.png>]
+<produtos/proddois/image28.png, id=402, 371.3875pt x 499.8675pt>
+File: produtos/proddois/image28.png Graphic file (type png)
+<use produtos/proddois/image28.png>
+Package pdftex.def Info: produtos/proddois/image28.png  used on input line 180.
+
+(pdftex.def)             Requested size: 426.79135pt x 574.45416pt.
+
+
+LaTeX Warning: Float too large for page by 7.13426pt on input line 184.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[32]
-Overfull \hbox (25.19997pt too wide) in alignment at lines 287--327
- [] [] 
+[32
+
+]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
  []
+
+[33 <./produtos/proddois/image28.png>]
+<produtos/proddois/image29.png, id=413, 430.60875pt x 580.1675pt>
+File: produtos/proddois/image29.png Graphic file (type png)
+<use produtos/proddois/image29.png>
+Package pdftex.def Info: produtos/proddois/image29.png  used on input line 194.
+
+(pdftex.def)             Requested size: 426.79135pt x 575.04037pt.
+
+
+LaTeX Warning: Float too large for page by 7.72047pt on input line 198.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[33]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
+[34
 
-[34]
+]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [35]
-Underfull \hbox (badness 2197) in paragraph at lines 336--337
-[]|\T1/phv/m/n/10 Institui o Pro-grama Es-ta-dual de In-cen-tivo ao uso de ma-t
-é-
- []
-
-
-Overfull \hbox (25.19997pt too wide) in alignment at lines 327--350
- [] [] 
- []
-
-
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2093,23 +2090,6 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
  []
 
 [42]
-Overfull \hbox (12.13356pt too wide) in paragraph at lines 363--364
-[]\T1/phv/m/n/10 Outra le-gis-la-ção im-por-tante na ges-tão dos re-sí-duos só-
-li-dos é o De-creto Es-ta-dual n\TS1/phv/m/n/10 º \T1/phv/m/n/10 57.817/2012,
- []
-
-
-Overfull \hbox (1.11145pt too wide) in paragraph at lines 372--372
-[]\T1/phv/m/n/10 Art. 2\TS1/phv/m/n/10 º \T1/phv/m/n/10 - Ao Sis-tema Es-ta-du
-al de Ge-ren-ci-a-mento
- []
-
-
-Overfull \hbox (5.72617pt too wide) in paragraph at lines 376--376
-\T1/phv/m/n/10 sen-vol-vi-mento sus-ten-tá-vel, com jus-tiça so-cial, aos
- []
-
-
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2130,21 +2110,16 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
  []
 
 [46]
-
-LaTeX Font Warning: Font shape `TS1/phv/bx/sc' undefined
-(Font)              using `TS1/phv/bx/n' instead
-(Font)              for symbol `textordmasculine' on input line 426.
-
-LaTeX Font Info:    Font shape `TS1/phv/bx/n' in size <12> not available
-(Font)              Font shape `TS1/phv/b/n' tried instead on input line 426.
-
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [47]
-LaTeX Font Info:    Font shape `TS1/phv/bx/sc' in size <12> not available
-(Font)              Font shape `TS1/phv/b/n' tried instead on input line 433.
+Overfull \hbox (24.63391pt too wide) in paragraph at lines 459--468
+ \T1/phv/m/n/10 REN-TES 18.768.200,00 De-du-ção para o FUN-DEB 2.368.200,00 RE-
+CEITA FI-NAL 16.400.000,00 
+ []
+
 
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
@@ -2165,7 +2140,7 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[51]
+[51])
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2175,542 +2150,62 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[53]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[54]
-<produtos/produm/distribuicaolegislacao.png, id=2945, 1243.64626pt x 1008.76875
-pt>
-File: produtos/produm/distribuicaolegislacao.png Graphic file (type png)
-<use produtos/produm/distribuicaolegislacao.png>
-Package pdftex.def Info: produtos/produm/distribuicaolegislacao.png  used on in
-put line 595.
-(pdftex.def)             Requested size: 426.79135pt x 346.1785pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[55]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[56 <./produtos/produm/distribuicaolegislacao.png>]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[57])
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[58] (main.bbl
+[53 <./produtos/proddois/image29.png>] (main.bbl
 bibitemlist
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 10.
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <10> not available
 (Font)              Font shape `TS1/phv/m/sl' tried instead on input line 23.
 )
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 78.
+(hyperref)                be the same. Added a new anchor on input line 73.
 
-(produm-apend.tex
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[59
+[54
 
 
 ]
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 29.
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[60
-
-]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[61]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[62]
-Overfull \hbox (0.98021pt too wide) in paragraph at lines 128--129
-\T1/phv/m/n/10 Sobre ge-ren-ci-a-mento de RCC, al-te-rada pe-las re-so-lu-ções 
-348/2004, 431/2011,
- []
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[63]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[64]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[65]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[66]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[67]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[68]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[69]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[70]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[71]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[72]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[73]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[74]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[75]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[76]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[77]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[78]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[79]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[80]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 607.
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[81]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[82]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[83]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[84]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[85]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[86]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[87]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[88]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[89]
-Overfull \hbox (0.98021pt too wide) in paragraph at lines 838--839
-\T1/phv/m/n/10 Sobre ge-ren-ci-a-mento de RCC, al-te-rada pe-las re-so-lu-ções 
-348/2004, 431/2011,
- []
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[90]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[91]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[92]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[93]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[94]
-Overfull \hbox (3.44858pt too wide) in paragraph at lines 932--933
-\T1/phv/m/n/10 Estabelece os pro-ce-di-men-tos ope-ra-ci-o-nais do Pro-grama Mu
--ni-cí-pio Verde Azul,
- []
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[95]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[96]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[97]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[98]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[99]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[100]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[101]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[102]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[103]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[104]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[105]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[106]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[107]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[108]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[109]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[110]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[111]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[112]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[113]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[114]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[115]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[116]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[117]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[118]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[119]) (produm-anexo.tex
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[120]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[121
-
-]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[122]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[123]
-<produtos/produm/danielepub.png, id=3263, 927.465pt x 498.36188pt>
-File: produtos/produm/danielepub.png Graphic file (type png)
-<use produtos/produm/danielepub.png>
-Package pdftex.def Info: produtos/produm/danielepub.png  used on input line 71.
-
-(pdftex.def)             Requested size: 426.79135pt x 229.33289pt.
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[124]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[125 <./produtos/produm/danielepub.png>]
-<produtos/produm/estrategmobi.png, id=3273, 1111.90407pt x 557.83406pt>
-File: produtos/produm/estrategmobi.png Graphic file (type png)
-<use produtos/produm/estrategmobi.png>
-Package pdftex.def Info: produtos/produm/estrategmobi.png  used on input line 9
-2.
-(pdftex.def)             Requested size: 426.79135pt x 214.11562pt.
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[126 <./produtos/produm/estrategmobi.png>]
-<produtos/produm/estrategmobiarearural.png, id=3280, 885.3075pt x 520.19344pt>
-File: produtos/produm/estrategmobiarearural.png Graphic file (type png)
-<use produtos/produm/estrategmobiarearural.png>
-Package pdftex.def Info: produtos/produm/estrategmobiarearural.png  used on inp
-ut line 118.
-(pdftex.def)             Requested size: 426.79135pt x 250.77744pt.
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[127 <./produtos/produm/estrategmobiarearural.png>]
-<produtos/produm/estrategmobiturista.png, id=3288, 836.3747pt x 453.19313pt>
-File: produtos/produm/estrategmobiturista.png Graphic file (type png)
-<use produtos/produm/estrategmobiturista.png>
-Package pdftex.def Info: produtos/produm/estrategmobiturista.png  used on input
- line 140.
-(pdftex.def)             Requested size: 426.79135pt x 231.26373pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[128]
-<produtos/produm/estrategmobijovem.png, id=3300, 903.375pt x 585.68813pt>
-File: produtos/produm/estrategmobijovem.png Graphic file (type png)
-<use produtos/produm/estrategmobijovem.png>
-Package pdftex.def Info: produtos/produm/estrategmobijovem.png  used on input l
-ine 154.
-(pdftex.def)             Requested size: 426.79135pt x 276.70335pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[129 <./produtos/produm/estrategmobiturista.png>]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[130 <./produtos/produm/estrategmobijovem.png>]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[131])
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[132]
 \openout2 = `src/layout/capafim.aux'.
 
  (src/layout/capafim.tex
 \capafimimage=\box83
-<src/layout/capafim.png, id=3319, 597.87pt x 845.2305pt>
+<src/layout/capafim.png, id=508, 597.87pt x 845.2305pt>
 File: src/layout/capafim.png Graphic file (type png)
 <use src/layout/capafim.png>
 Package pdftex.def Info: src/layout/capafim.png  used on input line 10.
 (pdftex.def)             Requested size: 597.55835pt x 845.08656pt.
-) [133
+) [55
 
  <./src/layout/capafim.png>]
 \tf@lof=\write8
 \openout8 = `main.lof'.
 
-\tf@loq=\write9
-\openout9 = `main.loq'.
+\tf@toc=\write9
+\openout9 = `main.toc'.
 
-\tf@toc=\write10
-\openout10 = `main.toc'.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 87.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 87.
  (main.aux
 (src/layout/capa.aux) (src/basic/apresentacao.aux) (src/basic/introducao.aux)
-(produtos/produm.aux) (src/layout/capafim.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 92.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
+(produtos/proddois.aux) (src/layout/capafim.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 87.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 87.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 331684E5358DFF893AF81686B552D9D8;56881.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
+(rerunfilecheck)             Checksum: 70AC4BF7E49A5FE89EDCEB7ADB369FC1;2944.
  ) 
 Here is how much of TeX's memory you used:
- 30914 strings out of 492895
- 576412 string characters out of 3123736
- 786409 words of memory out of 3000000
- 33402 multiletter control sequences out of 15000+200000
- 42049 words of font info for 45 fonts, out of 3000000 for 9000
+ 29578 strings out of 492895
+ 548245 string characters out of 3123736
+ 752892 words of memory out of 3000000
+ 32794 multiletter control sequences out of 15000+200000
+ 32197 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,17n,67p,1994b,821s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 71i,17n,68p,2034b,653s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{glo:agevap} has been referenced but does not exis
 t, replaced by a fixed one
 
@@ -2718,15 +2213,13 @@ pdfTeX warning (dest): name{glo:pmgirs} has been referenced but does not exist,
  replaced by a fixed one
 
 {C:/Users/Lucas/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<
-C:/Users/Lucas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmmi10.pfb><C:/Users/Lucas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr7.pfb><C:/Users/Lucas/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/urw/helvetic/uhvb8a.pfb><C:/Users/Lucas/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Lucas/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (133 pages, 8903838 bytes).
+C:/Users/Lucas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8
+a.pfb><C:/Users/Lucas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helveti
+c/uhvr8a.pfb><C:/Users/Lucas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
+helvetic/uhvro8a.pfb>
+Output written on main.pdf (55 pages, 9184977 bytes).
 PDF statistics:
- 3518 PDF objects out of 3580 (max. 8388607)
- 837 named destinations out of 1000 (max. 500000)
- 5273 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 554 PDF objects out of 1000 (max. 8388607)
+ 114 named destinations out of 1000 (max. 500000)
+ 409 words of extra memory for PDF output out of 10000 (max. 10000000)
 
