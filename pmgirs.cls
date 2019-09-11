@@ -25,6 +25,8 @@
 \usepackage{tocloft}
 \usepackage{ragged2e}
 \usepackage{totalcount}
+\usepackage{colortbl}
+\usepackage{multirow}
 
 \DeclareTotalCounter{figure}
 \DeclareTotalCounter{table}

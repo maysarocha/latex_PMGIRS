@@ -3,51 +3,92 @@
 \thispagestyle {headfootimage}
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
-\contentsline {chapter}{Lista de ilustra\c {c}\~{o}es}{13}{section*.3}% 
-\contentsline {chapter}{Sum\'ario}{14}{section*.4}% 
+\contentsline {chapter}{Lista de tabelas}{13}{section*.3}% 
+\contentsline {chapter}{Sum\'ario}{15}{section*.4}% 
 \setcounter {tocdepth}{\SavedTocDepth }
-\contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{16}{section.0.1}% 
-\contentsline {section}{\numberline {2}Caracteriza\IeC {\c c}\IeC {\~a}o do munic\IeC {\'\i }pio de Monteiro Lobato}{18}{section.0.2}% 
-\contentsline {subsection}{\numberline {2.1}Localiza\IeC {\c c}\IeC {\~a}o e acesso}{18}{subsection.0.2.1}% 
-\contentsline {subsection}{\numberline {2.2}Bacia hidrogr\IeC {\'a}fica do rio Para\IeC {\'\i }ba do Sul}{20}{subsection.0.2.2}% 
-\contentsline {section}{\numberline {3}Hist\IeC {\'o}rico}{21}{section.0.3}% 
-\contentsline {section}{\numberline {4}Turismo, cultura e lazer}{23}{section.0.4}% 
-\contentsline {section}{\numberline {5}Geografia f\IeC {\'\i }sica}{28}{section.0.5}% 
-\contentsline {subsection}{\numberline {5.1}Clima}{28}{subsection.0.5.1}% 
-\contentsline {subsection}{\numberline {5.2}Geologia}{29}{subsection.0.5.2}% 
-\contentsline {subsection}{\numberline {5.3}Geomorfologia}{31}{subsection.0.5.3}% 
-\contentsline {subsection}{\numberline {5.4}Relevo}{34}{subsection.0.5.4}% 
-\contentsline {subsection}{\numberline {5.5}Recursos naturais}{36}{subsection.0.5.5}% 
-\contentsline {subsection}{\numberline {5.6}Hidrografia}{36}{subsection.0.5.6}% 
-\contentsline {section}{\numberline {6}Organiza\IeC {\c c}\IeC {\~a}o territorial e pol\IeC {\'\i }tico-administrativa}{37}{section.0.6}% 
-\contentsline {subsection}{\numberline {6.1}Organiza\IeC {\c c}\IeC {\~a}o territorial}{37}{subsection.0.6.1}% 
-\contentsline {subsubsection}{\numberline {6.1.1}Distritos e Bairros}{37}{subsubsection.0.6.1.1}% 
-\contentsline {subsection}{\numberline {6.2}Organiza\IeC {\c c}\IeC {\~a}o Pol\IeC {\'\i }tico Administrativa}{37}{subsection.0.6.2}% 
-\contentsline {subsubsection}{\numberline {6.2.1}Poder Legislativo}{40}{subsubsection.0.6.2.1}% 
-\contentsline {subsection}{\numberline {6.3}Dispositivos legais de zoneamento urbano, disciplinadores do uso e ocupa\IeC {\c c}\IeC {\~a}o do solo}{41}{subsection.0.6.3}% 
-\contentsline {subsection}{\numberline {6.4}Demografia}{42}{subsection.0.6.4}% 
-\contentsline {section}{\numberline {7}Macroinforma\IeC {\c c}\IeC {\~o}es socioecon\IeC {\^o}micas}{43}{section.0.7}% 
-\contentsline {subsection}{\numberline {7.1}Educa\IeC {\c c}\IeC {\~a}o}{43}{subsection.0.7.1}% 
-\contentsline {subsection}{\numberline {7.2}Trabalho e renda}{45}{subsection.0.7.2}% 
-\contentsline {subsection}{\numberline {7.3}Indicadores de sa\IeC {\'u}de e estat\IeC {\'\i }sticas vitais}{46}{subsection.0.7.3}% 
-\contentsline {subsection}{\numberline {7.4}Economia}{48}{subsection.0.7.4}% 
-\contentsline {subsection}{\numberline {7.5}Disponibilidade de recursos}{49}{subsection.0.7.5}% 
-\contentsline {subsection}{\numberline {7.6}Indicadores sanit\IeC {\'a}rios, epidemiol\IeC {\'o}gicos, ambientais e socioecon\IeC {\^o}micos}{51}{subsection.0.7.6}% 
-\contentsline {subsubsection}{\numberline {7.6.1}Abastecimento de \IeC {\'A}gua e Esgotamento Sanit\IeC {\'a}rio}{51}{subsubsection.0.7.6.1}% 
-\contentsline {subsubsection}{\numberline {7.6.2}Res\IeC {\'\i }duos s\IeC {\'o}lidos}{51}{subsubsection.0.7.6.2}% 
-\contentsline {subsubsection}{\numberline {7.6.3}Doen\IeC {\c c}as e endemias}{52}{subsubsection.0.7.6.3}% 
-\contentsline {subsubsection}{\numberline {7.6.4}Renda, pobreza e desigualdade}{53}{subsubsection.0.7.6.4}% 
-\contentsline {section}{Refer\IeC {\^e}ncias}{56}{subsubsection.0.7.6.4}% 
+\contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{18}{section.0.1}% 
+\contentsline {section}{\numberline {2}Diagn\IeC {\'o}stico do sistema de limpeza urbana e manejo de res\IeC {\'\i }duos s\IeC {\'o}lidos}{22}{section.0.2}% 
+\contentsline {subsection}{\numberline {2.1}Res\IeC {\'\i }duos S\IeC {\'o}lidos Urbanos}{23}{subsection.0.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Res\IeC {\'\i }duo S\IeC {\'o}lido Comum}{27}{subsection.0.2.2}% 
+\contentsline {subsubsection}{\numberline {2.2.1}Acondicionamento}{29}{subsubsection.0.2.2.1}% 
+\contentsline {subsubsection}{\numberline {2.2.2}Coleta, transbordo e transporte}{30}{subsubsection.0.2.2.2}% 
+\contentsline {subsubsection}{\numberline {2.2.3}Disposi\IeC {\c c}\IeC {\~a}o final}{32}{subsubsection.0.2.2.3}% 
+\contentsline {subsubsection}{\numberline {2.2.4}Volume}{33}{subsubsection.0.2.2.4}% 
+\contentsline {subsubsection}{\numberline {2.2.5}Caracteriza\IeC {\c c}\IeC {\~a}o gravim\IeC {\'e}trica}{35}{subsubsection.0.2.2.5}% 
+\contentsline {paragraph}{\textbf {Metodologia da caracteriza\IeC {\c c}\IeC {\~a}o gravim\IeC {\'e}trica:}}{36}{paragraph*.6}% 
+\contentsline {paragraph}{\textbf {Resultados da caracteriza\IeC {\c c}\IeC {\~a}o gravim\IeC {\'e}trica:}}{36}{paragraph*.7}% 
+\contentsline {subsubsection}{\numberline {2.2.6}Custos}{39}{subsubsection.0.2.2.6}% 
+\contentsline {subsection}{\numberline {2.3}Res\IeC {\'\i }duos da Coleta Seletiva}{40}{subsection.0.2.3}% 
+\contentsline {subsubsection}{\numberline {2.3.1}Acondicionamento}{42}{subsubsection.0.2.3.1}% 
+\contentsline {subsubsection}{\numberline {2.3.2}Coleta, Transbordo e Transporte}{42}{subsubsection.0.2.3.2}% 
+\contentsline {subsubsection}{\numberline {2.3.3}Disposi\IeC {\c c}\IeC {\~a}o final}{44}{subsubsection.0.2.3.3}% 
+\contentsline {subsubsection}{\numberline {2.3.4}Volume gerado}{44}{subsubsection.0.2.3.4}% 
+\contentsline {subsubsection}{\numberline {2.3.5}Caracteriza\IeC {\c c}\IeC {\~a}o gravim\IeC {\'e}trica}{45}{subsubsection.0.2.3.5}% 
+\contentsline {paragraph}{\textbf {Metodologia da caracteriza\IeC {\c c}\IeC {\~a}o gravim\IeC {\'e}trica}}{45}{paragraph*.8}% 
+\contentsline {paragraph}{\textbf {Resultados da caracteriza\IeC {\c c}\IeC {\~a}o gravim\IeC {\'e}trica}}{46}{paragraph*.9}% 
+\contentsline {subsection}{\numberline {2.4}Res\IeC {\'\i }duos de Limpeza Urbana}{48}{subsection.0.2.4}% 
+\contentsline {subsubsection}{\numberline {2.4.1}Acondicionamento}{50}{subsubsection.0.2.4.1}% 
+\contentsline {subsubsection}{\numberline {2.4.2}Coleta, Transbordo e Transporte}{51}{subsubsection.0.2.4.2}% 
+\contentsline {subsubsection}{\numberline {2.4.3}Disposi\IeC {\c c}\IeC {\~a}o final}{51}{subsubsection.0.2.4.3}% 
+\contentsline {subsubsection}{\numberline {2.4.4}Volume}{52}{subsubsection.0.2.4.4}% 
+\contentsline {subsubsection}{\numberline {2.4.5}Custos}{52}{subsubsection.0.2.4.5}% 
+\contentsline {subsection}{\numberline {2.5}Res\IeC {\'\i }duos dos Servi\IeC {\c c}os P\IeC {\'u}blicos de Saneamento B\IeC {\'a}sico}{53}{subsection.0.2.5}% 
+\contentsline {paragraph}{\textbf {Sistema de ETA em Monteiro Lobato}}{54}{paragraph*.10}% 
+\contentsline {paragraph}{\textbf {Sistema de ETE em Monteiro Lobato}}{55}{paragraph*.11}% 
+\contentsline {subsubsection}{\numberline {2.5.1}Disposi\IeC {\c c}\IeC {\~a}o final}{56}{subsubsection.0.2.5.1}% 
+\contentsline {subsubsection}{\numberline {2.5.2}Volume}{56}{subsubsection.0.2.5.2}% 
+\contentsline {subsection}{\numberline {2.6}Res\IeC {\'\i }duos Industriais}{57}{subsection.0.2.6}% 
+\contentsline {subsubsection}{\numberline {2.6.1}Diretrizes iniciais para elabora\IeC {\c c}\IeC {\~a}o do Plano de Gerenciamento de Res\IeC {\'\i }duos S\IeC {\'o}lidos Industriais}{58}{subsubsection.0.2.6.1}% 
+\contentsline {subsubsection}{\numberline {2.6.2}Invent\IeC {\'a}rio de Res\IeC {\'\i }duos S\IeC {\'o}lidos Industriais}{60}{subsubsection.0.2.6.2}% 
+\contentsline {subsubsection}{\numberline {2.6.3}Volume}{61}{subsubsection.0.2.6.3}% 
+\contentsline {subsection}{\numberline {2.7}Res\IeC {\'\i }duos de Servi\IeC {\c c}os de Sa\IeC {\'u}de}{61}{subsection.0.2.7}% 
+\contentsline {subsubsection}{\numberline {2.7.1}Acondicionamento}{65}{subsubsection.0.2.7.1}% 
+\contentsline {subsubsection}{\numberline {2.7.2}Coleta, transbordo e transporte}{70}{subsubsection.0.2.7.2}% 
+\contentsline {subsubsection}{\numberline {2.7.3}Disposi\IeC {\c c}\IeC {\~a}o final}{70}{subsubsection.0.2.7.3}% 
+\contentsline {subsubsection}{\numberline {2.7.4}Volume}{71}{subsubsection.0.2.7.4}% 
+\contentsline {subsubsection}{\numberline {2.7.5}Custos}{73}{subsubsection.0.2.7.5}% 
+\contentsline {subsection}{\numberline {2.8}Res\IeC {\'\i }duos Agrossilvipastoris}{74}{subsection.0.2.8}% 
+\contentsline {paragraph}{\textbf {Res\IeC {\'\i }duos Agrossilvipastoris org\IeC {\^a}nicos}}{74}{paragraph*.12}% 
+\contentsline {paragraph}{Res\IeC {\'\i }duos Agrossilvipastoris inorg\IeC {\^a}nicos}{75}{paragraph*.13}% 
+\contentsline {subsubsection}{\numberline {2.8.1}Volume}{79}{subsubsection.0.2.8.1}% 
+\contentsline {subsection}{\numberline {2.9}Res\IeC {\'\i }duos da Constru\IeC {\c c}\IeC {\~a}o Civil e Volumosos Inserv\IeC {\'\i }veis}{79}{subsection.0.2.9}% 
+\contentsline {subsubsection}{\numberline {2.9.1}Acondicionamento}{81}{subsubsection.0.2.9.1}% 
+\contentsline {subsubsection}{\numberline {2.9.2}Coleta, transbordo e transporte dos Res\IeC {\'\i }duos da Constru\IeC {\c c}\IeC {\~a}o Civil}{81}{subsubsection.0.2.9.2}% 
+\contentsline {subsubsection}{\numberline {2.9.3}Disposi\IeC {\c c}\IeC {\~a}o final}{82}{subsubsection.0.2.9.3}% 
+\contentsline {subsubsection}{\numberline {2.9.4}Volume}{82}{subsubsection.0.2.9.4}% 
+\contentsline {subsection}{\numberline {2.10}Res\IeC {\'\i }duos de Servi\IeC {\c c}os de Transportes}{82}{subsection.0.2.10}% 
+\contentsline {subsubsection}{\numberline {2.10.1}Acondicionamento}{84}{subsubsection.0.2.10.1}% 
+\contentsline {subsubsection}{\numberline {2.10.2}Coleta, transbordo e transporte}{84}{subsubsection.0.2.10.2}% 
+\contentsline {subsubsection}{\numberline {2.10.3}Disposi\IeC {\c c}\IeC {\~a}o final}{84}{subsubsection.0.2.10.3}% 
+\contentsline {subsubsection}{\numberline {2.10.4}Volume}{84}{subsubsection.0.2.10.4}% 
+\contentsline {subsection}{\numberline {2.11}Res\IeC {\'\i }duos de Minera\IeC {\c c}\IeC {\~a}o}{85}{subsection.0.2.11}% 
+\contentsline {subsection}{\numberline {2.12}Res\IeC {\'\i }duos da Log\IeC {\'\i }stica Reversa}{87}{subsection.0.2.12}% 
+\contentsline {section}{\numberline {3}Indicadores para os servi\IeC {\c c}os p\IeC {\'u}blicos de limpeza urbana e de manejo de res\IeC {\'\i }duos s\IeC {\'o}lidos}{100}{section.0.3}% 
+\contentsline {subsection}{\numberline {3.1}Indicadores no contexto da cidade inteligente de Monteiro Lobato}{101}{subsection.0.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Metodologia de defini\IeC {\c c}\IeC {\~a}o dos indicadores}{103}{subsection.0.3.2}% 
+\contentsline {subsection}{\numberline {3.3}Crit\IeC {\'e}rios para a gest\IeC {\~a}o municipal dos res\IeC {\'\i }duos s\IeC {\'o}lidos}{104}{subsection.0.3.3}% 
+\contentsline {subsection}{\numberline {3.4}Revis\IeC {\~a}o Bibliogr\IeC {\'a}fica de indicadores existentes }{104}{subsection.0.3.4}% 
+\contentsline {subsection}{\numberline {3.5}Crit\IeC {\'e}rios de sele\IeC {\c c}\IeC {\~a}o dos indicadores}{105}{subsection.0.3.5}% 
+\contentsline {subsection}{\numberline {3.6}Proposta de indicadores}{106}{subsection.0.3.6}% 
+\contentsline {subsubsection}{\numberline {3.6.1}Indicadores para Servi\IeC {\c c}os de Limpeza Urbana }{106}{subsubsection.0.3.6.1}% 
+\contentsline {subsubsection}{\numberline {3.6.2}Indicadores para Custos e Prestadores de Servi\IeC {\c c}os}{107}{subsubsection.0.3.6.2}% 
+\contentsline {subsubsection}{\numberline {3.6.3}Indicadores para Gest\IeC {\~a}o e Cumprimento Legal }{107}{subsubsection.0.3.6.3}% 
+\contentsline {subsection}{\numberline {3.7}Metodologia}{108}{subsection.0.3.7}% 
+\contentsline {paragraph}{ETAPA 1 (30 minutos)}{109}{paragraph*.14}% 
+\contentsline {paragraph}{ETAPA 2 (30 minutos)}{109}{paragraph*.15}% 
+\contentsline {paragraph}{ETAPA 3 (30 minutos)}{109}{paragraph*.16}% 
+\contentsline {subsection}{\numberline {3.8}Resultados}{110}{subsection.0.3.8}% 
+\contentsline {section}{Refer\IeC {\^e}ncias}{113}{subsection.0.3.8}% 
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
-\contentsline {chapter}{Refer\^encias}{56}{chapter*.5}% 
+\contentsline {chapter}{Refer\^encias}{113}{chapter*.17}% 
 \setcounter {tocdepth}{\SavedTocDepth }
-\contentsline {section}{Ap\IeC {\^e}ndices}{56}{section*.6}% 
+\contentsline {section}{Ap\IeC {\^e}ndices}{113}{section*.18}% 
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
 \setcounter {tocdepth}{\SavedTocDepth }
-\contentsline {section}{Anexos}{56}{section*.6}% 
+\contentsline {section}{Anexos}{113}{section*.18}% 
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
 \edef \SavedTocDepth {\the \value {tocdepth}}

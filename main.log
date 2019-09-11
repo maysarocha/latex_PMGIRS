@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.4)  11 SEP 2019 11:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.4)  11 SEP 2019 12:09
 entering extended mode
 **./main.tex
 (main.tex
@@ -1458,9 +1458,23 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 .sty"
 Package: totalcount 2018/01/21 v1.0a Total values of counters (AR)
 )
-\c@totalcount@figure=\count301
-\c@totalcount@table=\count302
-\c@totalcount@quadro=\count303
+("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\colortbl.
+sty"
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+\everycr=\toks56
+\minrowclearance=\skip289
+)
+("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.
+sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip290
+\multirow@cntb=\count301
+\multirow@dima=\skip291
+\bigstrutjot=\dimen311
+)
+\c@totalcount@figure=\count302
+\c@totalcount@table=\count303
+\c@totalcount@quadro=\count304
 
 
 ******************************************************
@@ -1494,19 +1508,19 @@ Package geometry Warning: Over-specification in `v'-direction.
 <src/layout/header.png, id=4, 1865.46938pt x 54.2025pt>
 File: src/layout/header.png Graphic file (type png)
 <use src/layout/header.png>
-Package pdftex.def Info: src/layout/header.png  used on input line 147.
+Package pdftex.def Info: src/layout/header.png  used on input line 149.
 (pdftex.def)             Requested size: 597.50787pt x 17.36086pt.
 \footimage=\box79
 <src/layout/bottom.png, id=5, 1800.7275pt x 228.855pt>
 File: src/layout/bottom.png Graphic file (type png)
 <use src/layout/bottom.png>
-Package pdftex.def Info: src/layout/bottom.png  used on input line 156.
+Package pdftex.def Info: src/layout/bottom.png  used on input line 158.
 (pdftex.def)             Requested size: 455.23651pt x 49.78952pt.
-\c@quadro=\count304
-\c@loqdepth=\count305
-\cftbeforequadroskip=\skip289
-\cftquadroindent=\skip290
-\cftquadronumwidth=\skip291
+\c@quadro=\count305
+\c@loqdepth=\count306
+\cftbeforequadroskip=\skip292
+\cftquadroindent=\skip293
+\cftquadronumwidth=\skip294
 )
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/abntex2\abntex2cit
 e.sty"
@@ -1514,19 +1528,19 @@ Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
 
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/abntex2\abntex2abr
 ev.sty")
-\minimumbiblabelwidth=\skip292
-\ABCIauxlen=\skip293
-\c@ABCIaux=\count306
-\c@ABCImax=\count307
+\minimumbiblabelwidth=\skip295
+\ABCIauxlen=\skip296
+\c@ABCIaux=\count307
+\c@ABCImax=\count308
 
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/relsize\relsize.st
 y"
 Package: relsize 2013/03/29 ver 4.1
 )
-\biblabelsep=\skip294
+\biblabelsep=\skip297
 LaTeX Info: Redefining \newblock on input line 591.
 LaTeX Info: Redefining \cite on input line 618.
-\ABCItoken=\toks56
+\ABCItoken=\toks57
 )
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
 r/tikz/libraries\tikzlibrarycalc.code.tex"
@@ -1539,7 +1553,7 @@ File: tikzlibrarycalc.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 Package glossaries Info: Writing glossary file main.glo on input line 8.
  (main.aux
 (src/layout/capa.aux) (src/basic/apresentacao.aux) (src/basic/introducao.aux)
-(produtos/proddois.aux) (src/layout/capafim.aux))
+(produtos/prodtres.aux) (src/layout/capafim.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -1621,17 +1635,17 @@ ABD: EveryShipout initializing macros
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
 df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count308
-\scratchdimen=\dimen311
+\scratchcounter=\count309
+\scratchdimen=\dimen312
 \scratchbox=\box80
-\nofMPsegments=\count309
-\nofMParguments=\count310
-\everyMPshowfont=\toks57
-\MPscratchCnt=\count311
-\MPscratchDim=\dimen312
-\MPnumerator=\count312
-\makeMPintoPDFobject=\count313
-\everyMPtoPDFconversion=\toks58
+\nofMPsegments=\count310
+\nofMParguments=\count311
+\everyMPshowfont=\toks58
+\MPscratchCnt=\count312
+\MPscratchDim=\dimen313
+\MPnumerator=\count313
+\makeMPintoPDFobject=\count314
+\everyMPtoPDFconversion=\toks59
 )
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
 base.sty"
@@ -1659,7 +1673,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 estring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count314
+\c@section@level=\count315
 )
 LaTeX Info: Redefining \ref on input line 19.
 LaTeX Info: Redefining \pageref on input line 19.
@@ -1675,7 +1689,7 @@ LaTeX Info: Redefining \selectfont on input line 19.
 
 (src/layout/capa.tex
 \capaimage=\box82
-<src/layout/capa.png, id=154, 597.9138pt x 845.0772pt>
+<src/layout/capa.png, id=318, 597.9138pt x 845.0772pt>
 File: src/layout/capa.png Graphic file (type png)
 <use src/layout/capa.png>
 Package pdftex.def Info: src/layout/capa.png  used on input line 10.
@@ -1685,13 +1699,13 @@ Overfull \hbox (57.18855pt too wide) in paragraph at lines 26--32
 []$[]$ 
  []
 
-<src/layout/Brasao_Monteiro_Lobato.jpg, id=155, 145.54375pt x 160.6pt>
+<src/layout/Brasao_Monteiro_Lobato.jpg, id=319, 145.54375pt x 160.6pt>
 File: src/layout/Brasao_Monteiro_Lobato.jpg Graphic file (type jpg)
 <use src/layout/Brasao_Monteiro_Lobato.jpg>
 Package pdftex.def Info: src/layout/Brasao_Monteiro_Lobato.jpg  used on input l
 ine 36.
 (pdftex.def)             Requested size: 71.13188pt x 78.49127pt.
-<src/layout/logo_agevap.png, id=156, 77.1975pt x 112.0185pt>
+<src/layout/logo_agevap.png, id=320, 77.1975pt x 112.0185pt>
 File: src/layout/logo_agevap.png Graphic file (type png)
 <use src/layout/logo_agevap.png>
 Package pdftex.def Info: src/layout/logo_agevap.png  used on input line 42.
@@ -1785,29 +1799,129 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 
 [12]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 36.
- (main.lof)
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 40.
+ (main.lot)
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [13
 
-] (main.toc
+
+]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[14
-
-
-
-])
+[14] (main.toc
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[15]
+[15
+
+
+]
+Overfull \hbox (1.17978pt too wide) detected at line 66
+ \T1/phv/m/n/10 100
+ []
+
+
+Overfull \hbox (1.17978pt too wide) detected at line 67
+ \T1/phv/m/n/10 101
+ []
+
+
+Overfull \hbox (1.17978pt too wide) detected at line 68
+ \T1/phv/m/n/10 103
+ []
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[16]
+Overfull \hbox (1.17978pt too wide) detected at line 69
+ \T1/phv/m/n/10 104
+ []
+
+
+Overfull \hbox (1.17978pt too wide) detected at line 70
+ \T1/phv/m/n/10 104
+ []
+
+
+Overfull \hbox (1.17978pt too wide) detected at line 71
+ \T1/phv/m/n/10 105
+ []
+
+
+Overfull \hbox (1.17978pt too wide) detected at line 72
+ \T1/phv/m/n/10 106
+ []
+
+
+Overfull \hbox (1.17978pt too wide) detected at line 73
+ \T1/phv/m/n/10 106
+ []
+
+
+Overfull \hbox (1.17978pt too wide) detected at line 74
+ \T1/phv/m/n/10 107
+ []
+
+
+Overfull \hbox (1.17978pt too wide) detected at line 75
+ \T1/phv/m/n/10 107
+ []
+
+
+Overfull \hbox (1.17978pt too wide) detected at line 76
+ \T1/phv/m/n/10 108
+ []
+
+
+Overfull \hbox (1.17978pt too wide) detected at line 77
+ \T1/phv/m/n/10 109
+ []
+
+
+Overfull \hbox (1.17978pt too wide) detected at line 78
+ \T1/phv/m/n/10 109
+ []
+
+
+Overfull \hbox (1.17978pt too wide) detected at line 79
+ \T1/phv/m/n/10 109
+ []
+
+
+Overfull \hbox (1.17978pt too wide) detected at line 80
+ \T1/phv/m/n/10 110
+ []
+
+
+Overfull \hbox (1.17978pt too wide) detected at line 81
+ \T1/phv/m/n/10 113
+ []
+
+
+Overfull \hbox (1.17978pt too wide) detected at line 86
+ \T1/phv/m/n/10 113
+ []
+
+
+Overfull \hbox (1.17978pt too wide) detected at line 91
+ \T1/phv/m/n/10 113
+ []
+
+)
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[17]
 \openout2 = `src/basic/introducao.aux'.
 
  (src/basic/introducao.tex)
@@ -1815,159 +1929,182 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[16
+[18
 
 ]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[17]
-\openout2 = `produtos/proddois.aux'.
+[19]
+\openout2 = `produtos/prodtres.aux'.
 
- (produtos/proddois.tex
-<produtos/proddois/image16.png, id=312, 506.89375pt x 341.275pt>
-File: produtos/proddois/image16.png Graphic file (type png)
-<use produtos/proddois/image16.png>
-Package pdftex.def Info: produtos/proddois/image16.png  used on input line 9.
-(pdftex.def)             Requested size: 426.79135pt x 287.35121pt.
-
+ (produtos/prodtres.tex
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[18
+[20
 
 
- <./produtos/proddois/image16.png>]
-<produtos/proddois/image17.png, id=319, 390.45876pt x 524.96124pt>
-File: produtos/proddois/image17.png Graphic file (type png)
-<use produtos/proddois/image17.png>
-Package pdftex.def Info: produtos/proddois/image17.png  used on input line 19.
-(pdftex.def)             Requested size: 384.1096pt x 516.44505pt.
-
+]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[19 <./produtos/proddois/image17.png>]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
+[21]
+Overfull \hbox (3.61356pt too wide) in paragraph at lines 48--49
+[]\T1/phv/m/n/10 gerados nes-sas
  []
-
-[20]
-<produtos/proddois/image18.png, id=332, 339.2675pt x 174.6525pt>
-File: produtos/proddois/image18.png Graphic file (type png)
-<use produtos/proddois/image18.png>
-Package pdftex.def Info: produtos/proddois/image18.png  used on input line 41.
-(pdftex.def)             Requested size: 341.43437pt x 175.77402pt.
-<produtos/proddois/image19.png, id=333, 230.8625pt x 163.61125pt>
-File: produtos/proddois/image19.png Graphic file (type png)
-<use produtos/proddois/image19.png>
-Package pdftex.def Info: produtos/proddois/image19.png  used on input line 49.
-(pdftex.def)             Requested size: 341.43437pt x 241.99104pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[21 <./produtos/proddois/image18.png>]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
+[22]
+Overfull \hbox (2.344pt too wide) in paragraph at lines 49--50
+[]\T1/phv/m/n/10 gerados nes-sas ati-vi-da-des,
  []
-
-[22 <./produtos/proddois/image19.png>]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[23]
-<produtos/proddois/image20.png, id=351, 428.60126pt x 268.00125pt>
-File: produtos/proddois/image20.png Graphic file (type png)
-<use produtos/proddois/image20.png>
-Package pdftex.def Info: produtos/proddois/image20.png  used on input line 84.
-(pdftex.def)             Requested size: 362.77525pt x 226.84113pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<produtos/proddois/image21.png, id=352, 393.47pt x 257.96375pt>
-File: produtos/proddois/image21.png Graphic file (type png)
-<use produtos/proddois/image21.png>
-Package pdftex.def Info: produtos/proddois/image21.png  used on input line 92.
-(pdftex.def)             Requested size: 362.77525pt x 237.83728pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<produtos/proddois/image22.png, id=353, 413.545pt x 221.82875pt>
-File: produtos/proddois/image22.png Graphic file (type png)
-<use produtos/proddois/image22.png>
-Package pdftex.def Info: produtos/proddois/image22.png  used on input line 100.
-
-(pdftex.def)             Requested size: 362.77525pt x 194.60062pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<produtos/proddois/image23.png, id=355, 360.34625pt x 180.675pt>
-File: produtos/proddois/image23.png Graphic file (type png)
-<use produtos/proddois/image23.png>
-Package pdftex.def Info: produtos/proddois/image23.png  used on input line 111.
-
-(pdftex.def)             Requested size: 362.77525pt x 181.89308pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[24]
+[23] (produtos/prodtres/tp3_cobertura_rsu.tex
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]|\T1/phv/b/n/10 CENTRO-OESTE
+ []
 
-LaTeX Warning: Text page 25 contains only floats.
+
+Overfull \hbox (25.74716pt too wide) in paragraph at lines 9--30
+ [][] 
+ []
 
 
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[25 <./produtos/proddois/image20.png> <./produtos/proddois/image21.png>]
+[24])
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[26 <./produtos/proddois/image22.png> <./produtos/proddois/image23.png>]
-<produtos/proddois/image24.png, id=375, 428.60126pt x 252.945pt>
-File: produtos/proddois/image24.png Graphic file (type png)
-<use produtos/proddois/image24.png>
-Package pdftex.def Info: produtos/proddois/image24.png  used on input line 122.
+[25]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
 
-(pdftex.def)             Requested size: 362.77525pt x 214.09724pt.
-<produtos/proddois/image25.png, id=376, 428.60126pt x 273.02pt>
-File: produtos/proddois/image25.png Graphic file (type png)
-<use produtos/proddois/image25.png>
-Package pdftex.def Info: produtos/proddois/image25.png  used on input line 130.
+[26]
+Overfull \hbox (2.44687pt too wide) in paragraph at lines 102--103
+ [][][][][][][] 
+ []
 
-(pdftex.def)             Requested size: 362.77525pt x 231.0891pt.
+
+LaTeX Warning: Reference `tab:pop_coleta' on page 27 undefined on input line 11
+5.
+
+(produtos/prodtres/tp3_pop_coleta.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+[]|\T1/phv/b/n/10 Pop.
+ []
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 6--6
+\T1/phv/b/n/10 tal aten-
+ []
+
+
+Overfull \hbox (5.63318pt too wide) in paragraph at lines 6--6
+\T1/phv/b/n/10 atendidaporta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\T1/phv/b/n/10 aten-dida
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\T1/phv/b/n/10 (distrito-sede
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\T1/phv/b/n/10 e lo-ca-li-da-
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 6--7
+[]|\T1/phv/b/n/10 Pop. Ru-ral
+ []
+
+
+Overfull \hbox (0.89888pt too wide) in paragraph at lines 8--8
+[]|\T1/phv/m/n/10 2009| 
+ []
+
+
+Overfull \hbox (3.67877pt too wide) in paragraph at lines 8--8
+[]|\T1/phv/m/n/10 4.295| 
+ []
+
+
+Overfull \hbox (0.89888pt too wide) in paragraph at lines 10--10
+[]|\T1/phv/m/n/10 2010| 
+ []
+
+
+Overfull \hbox (3.67877pt too wide) in paragraph at lines 10--10
+[]|\T1/phv/m/n/10 4.120| 
+ []
+
+
+Overfull \hbox (0.89888pt too wide) in paragraph at lines 12--12
+[]|\T1/phv/m/n/10 2011| 
+ []
+
+
+Overfull \hbox (3.67877pt too wide) in paragraph at lines 12--12
+[]|\T1/phv/m/n/10 4.159| 
+ []
+
+
+Overfull \hbox (0.89888pt too wide) in paragraph at lines 14--14
+[]|\T1/phv/m/n/10 2012| 
+ []
+
+
+Overfull \hbox (0.89888pt too wide) in paragraph at lines 16--16
+[]|\T1/phv/m/n/10 2013| 
+ []
+
+
+Overfull \hbox (0.89888pt too wide) in paragraph at lines 18--18
+[]|\T1/phv/m/n/10 2014| 
+ []
+
+
+Overfull \hbox (3.67877pt too wide) in paragraph at lines 18--18
+[]|\T1/phv/m/n/10 4.424| 
+ []
+
+
+Overfull \hbox (0.89888pt too wide) in paragraph at lines 20--20
+[]|\T1/phv/m/n/10 2015| 
+ []
+
 
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[27 <./produtos/proddois/image24.png> <./produtos/proddois/image25.png>]
-<produtos/proddois/image26.png, id=384, 390.45876pt x 207.77625pt>
-File: produtos/proddois/image26.png Graphic file (type png)
-<use produtos/proddois/image26.png>
-Package pdftex.def Info: produtos/proddois/image26.png  used on input line 150.
+[27])
 
-(pdftex.def)             Requested size: 426.79135pt x 227.12154pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+LaTeX Warning: Reference `tab:pop_coleta' on page 28 undefined on input line 11
+9.
 
 
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
@@ -1979,120 +2116,192 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[29 <./produtos/proddois/image26.png>]
+[29] (produtos/prodtres/tp3_coleta_municipal.tex)
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [30]
-<produtos/proddois/image27.png, id=399, 388.45125pt x 522.95375pt>
-File: produtos/proddois/image27.png Graphic file (type png)
-<use produtos/proddois/image27.png>
-Package pdftex.def Info: produtos/proddois/image27.png  used on input line 164.
-
-(pdftex.def)             Requested size: 426.79135pt x 574.58061pt.
-
-
-LaTeX Warning: Float too large for page by 7.26071pt on input line 168.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Overfull \hbox (117.98816pt too wide) in paragraph at lines 176--177
+ [][][][][][][] 
+ []
 
 
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[31
+[31]
+Overfull \hbox (58.5382pt too wide) in paragraph at lines 192--193
+ [][][][][][][] 
+ []
 
-]
+
+Overfull \hbox (26.3789pt too wide) in paragraph at lines 196--197
+ [][][][][][][] 
+ []
+
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [32]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
+Overfull \hbox (16.12883pt too wide) in paragraph at lines 215--216
+ [][][][][][][] 
  []
 
-[33 <./produtos/proddois/image27.png>]
-<produtos/proddois/image28.png, id=415, 371.3875pt x 499.8675pt>
-File: produtos/proddois/image28.png Graphic file (type png)
-<use produtos/proddois/image28.png>
-Package pdftex.def Info: produtos/proddois/image28.png  used on input line 180.
 
-(pdftex.def)             Requested size: 426.79135pt x 574.45416pt.
-
-
-LaTeX Warning: Float too large for page by 7.13426pt on input line 184.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Overfull \hbox (35.01874pt too wide) in paragraph at lines 219--220
+ [][][][][][][] 
+ []
 
 
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[34
-
-]
+[33] (produtos/prodtres/tp3_coleta_acumulada.tex)
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[35 <./produtos/proddois/image28.png>]
-<produtos/proddois/image29.png, id=426, 430.60875pt x 580.1675pt>
-File: produtos/proddois/image29.png Graphic file (type png)
-<use produtos/proddois/image29.png>
-Package pdftex.def Info: produtos/proddois/image29.png  used on input line 194.
+[34]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
 
-(pdftex.def)             Requested size: 426.79135pt x 575.04037pt.
+[35] (produtos/prodtres/tp3_tipos_rsu.tex)
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
 
-
-LaTeX Warning: Float too large for page by 7.72047pt on input line 198.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+[36] (produtos/prodtres/tp3_gravimetrica.tex)
+(produtos/prodtres/tp3_densidade_aparente.tex
+LaTeX Font Info:    Font shape `TS1/phv/bx/n' in size <10> not available
+(Font)              Font shape `TS1/phv/b/n' tried instead on input line 9.
 
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[36
-
-]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[37]
+[37])
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [38]
+Overfull \hbox (27.2289pt too wide) in paragraph at lines 273--274
+ [][][][][][][] 
+ []
+
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[39]
+[39] (produtos/prodtres/tp3_gasto_mensal.tex)
+(produtos/prodtres/tp3_historico_custo.tex)
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[40]
+[40] (produtos/prodtres/tp3_info_coleta.tex
+Underfull \hbox (badness 6016) in paragraph at lines 5--5
+[]|[]\T1/phv/b/n/10 Taxa de co-ber-tura
+ []
+
+
+Underfull \hbox (badness 4543) in paragraph at lines 5--5
+\T1/phv/b/n/10 la-ção à po-pu-la-ção
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 5--5
+\T1/phv/b/n/10 le-tada de re-sí-duos
+ []
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 5--5
+\T1/phv/b/n/10 sól. do-més-ti-cos *
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|[]\T1/phv/b/n/10 Massa per ca-pita
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\T1/phv/b/n/10 de ma-te-ri-ais re-ci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\T1/phv/b/n/10 clá-veis re-co-lhi-dos
+ []
+
+
+Underfull \hbox (badness 7012) in paragraph at lines 5--5
+\T1/phv/b/n/10 via co-leta se-le-tiva
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|[]\T1/phv/b/n/10 Massa re-cu-pe-rada
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 5--5
+\T1/phv/b/n/10 per ca-pita de ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\T1/phv/b/n/10 te-ri-ais re-ci-clá-veis
+ []
+
+
+Underfull \hbox (badness 6110) in paragraph at lines 5--5
+\T1/phv/b/n/10 em re-la-ção à po-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+\T1/phv/b/n/10 pu-la-ção ur-bana
+ []
+
+
+Overfull \hbox (90.95844pt too wide) in paragraph at lines 4--16
+ [][] 
+ []
+
+)
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [41]
+Overfull \hbox (251.31693pt too wide) in paragraph at lines 314--315
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (48.85938pt too wide) in paragraph at lines 321--322
+ [][][][][][][] 
+ []
+
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [42]
+Overfull \hbox (137.41695pt too wide) in paragraph at lines 334--335
+ [][][][][][][] 
+ []
+
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2107,17 +2316,28 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[45]
+[45] (produtos/prodtres/tp3_tipo_rsu_ml.tex)
+(produtos/prodtres/tp3_composicao_gravimetrica.tex
+Overfull \hbox (260.78043pt too wide) in paragraph at lines 7--38
+ []\T1/phv/m/n/10 Fonte: 
+ []
+
+)
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[46]
+[46] (produtos/prodtres/tp3_densidade_aparente_seletiva.tex)
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [47]
+Overfull \hbox (150.1968pt too wide) in paragraph at lines 383--384
+ [][][][][][][] 
+ []
+
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2128,22 +2348,21 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
  []
 
 [49]
-Overfull \hbox (24.63391pt too wide) in paragraph at lines 459--468
- \T1/phv/m/n/10 REN-TES 18.768.200,00 De-du-ção para o FUN-DEB 2.368.200,00 RE-
-CEITA FI-NAL 16.400.000,00 
- []
-
-
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [50]
+Overfull \hbox (83.91779pt too wide) in paragraph at lines 415--416
+ [][][][][][][] 
+ []
+
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[51]
+[51] (produtos/prodtres/tp3_custo_limpeza.tex)
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2153,7 +2372,12 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[53])
+[53]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 458.
+
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
@@ -2163,7 +2387,509 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[55 <./produtos/proddois/image29.png>] (main.bbl
+[55]
+Overfull \hbox (292.37523pt too wide) in paragraph at lines 492--493
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[56]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[57]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[58]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[59] (produtos/prodtres/tp3_relacao_nbr.tex)
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[60] (produtos/prodtres/tp3_classificacao_rss.tex)
+(produtos/prodtres/tp3_tratamento_rss.tex
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[]|\T1/phv/m/n/10 Reutilização, Re-cu-pe-ra-ção,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+[]|\T1/phv/m/n/10 Tratamento es-pe-cí-fico de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/phv/m/n/10 acordo com a con-ta-mi-na-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/phv/m/n/10 ção quí-mica, bi-o-ló-gica ou
+ []
+
+)
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[61]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[62]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[63]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[64]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[65] (produtos/prodtres/tp3_classe_rss.tex
+Underfull \hbox (badness 1874) in paragraph at lines 24--24
+\T1/phv/m/n/10 Sa-cos bran-cos de su-per-
+ []
+
+
+Overfull \hbox (104.60214pt too wide) in paragraph at lines 7--30
+ [][] 
+ []
+
+)
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[66]
+Overfull \hbox (4.99913pt too wide) in paragraph at lines 635--636
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[67]
+Overfull \hbox (17.18938pt too wide) in paragraph at lines 639--640
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (106.85878pt too wide) in paragraph at lines 645--646
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (161.72743pt too wide) in paragraph at lines 649--650
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (4.74927pt too wide) in paragraph at lines 653--654
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[68]
+Overfull \hbox (47.239pt too wide) in paragraph at lines 657--658
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (90.53836pt too wide) in paragraph at lines 663--664
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[69]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[70]
+Overfull \hbox (349.00409pt too wide) in paragraph at lines 692--693
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[71]
+Overfull \hbox (24.02878pt too wide) in paragraph at lines 708--709
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (152.99709pt too wide) in paragraph at lines 712--713
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[72]
+Overfull \hbox (108.14743pt too wide) in paragraph at lines 727--728
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[73]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 732.
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[74]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[75]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[76]
+Overfull \hbox (49.56584pt too wide) in paragraph at lines 777--778
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[77]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[78]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[79]
+Overfull \hbox (146.50468pt too wide) in paragraph at lines 826--827
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[80]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[81]
+Overfull \hbox (71.97867pt too wide) in paragraph at lines 855--856
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (12.40915pt too wide) in paragraph at lines 859--860
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[82]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[83]
+Overfull \hbox (184.92662pt too wide) in paragraph at lines 882--883
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[84]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[85]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[86]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[87]
+Overfull \hbox (67.65591pt too wide) in paragraph at lines 932--933
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[88]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[89]
+Overfull \hbox (21.88919pt too wide) in paragraph at lines 964--965
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (9.39113pt too wide) in paragraph at lines 976--977
+[]\T1/phv/m/n/10 A re-gião su-deste é a que mais con-tri-bui para a des-ti-na-ç
+ão cor-reta, cerca de 251.158,37
+ []
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[90]
+Overfull \hbox (225.88638pt too wide) in paragraph at lines 982--983
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (179.0372pt too wide) in paragraph at lines 986--987
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[91]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[92]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[93]
+Overfull \hbox (219.73624pt too wide) in paragraph at lines 1027--1028
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (193.78668pt too wide) in paragraph at lines 1035--1036
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (90.08788pt too wide) in paragraph at lines 1039--1040
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (140.93724pt too wide) in paragraph at lines 1041--1042
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[94]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[95]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[96]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[97]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[98]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[99]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[100]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[101]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[102]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[103]
+Overfull \hbox (134.00502pt too wide) in paragraph at lines 1183--1184
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[104]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[105]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[106]
+Overfull \hbox (4.94936pt too wide) in paragraph at lines 1261--1262
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (34.95914pt too wide) in paragraph at lines 1263--1264
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (17.11932pt too wide) in paragraph at lines 1265--1266
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (1.61955pt too wide) in paragraph at lines 1272--1273
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[107]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 1295.
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[108]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[109]
+Overfull \hbox (13.81638pt too wide) in paragraph at lines 1329--1330
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (14.7562pt too wide) in paragraph at lines 1331--1332
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (38.6561pt too wide) in paragraph at lines 1333--1334
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (44.78572pt too wide) in paragraph at lines 1335--1336
+ [][][][][][][] 
+ []
+
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[110]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[111])
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[112] (main.bbl
 bibitemlist
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <10> not available
 (Font)              Font shape `TS1/phv/m/sl' tried instead on input line 10.
@@ -2177,7 +2903,7 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[56
+[113
 
 
 ]
@@ -2185,16 +2911,16 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 
  (src/layout/capafim.tex
 \capafimimage=\box83
-<src/layout/capafim.png, id=516, 597.87pt x 845.2305pt>
+<src/layout/capafim.png, id=1193, 597.87pt x 845.2305pt>
 File: src/layout/capafim.png Graphic file (type png)
 <use src/layout/capafim.png>
 Package pdftex.def Info: src/layout/capafim.png  used on input line 10.
 (pdftex.def)             Requested size: 597.55835pt x 845.08656pt.
-) [57
+) [114
 
  <./src/layout/capafim.png>]
-\tf@lof=\write8
-\openout8 = `main.lof'.
+\tf@lot=\write8
+\openout8 = `main.lot'.
 
 \tf@toc=\write9
 \openout9 = `main.toc'.
@@ -2203,34 +2929,117 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
  (main.aux
 (src/layout/capa.aux) (src/basic/apresentacao.aux) (src/basic/introducao.aux)
-(produtos/proddois.aux) (src/layout/capafim.aux))
+(produtos/prodtres.aux) (src/layout/capafim.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 88.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 88.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 70AC4BF7E49A5FE89EDCEB7ADB369FC1;2944.
+(rerunfilecheck)             Checksum: 1ED2D523C33BE00CD256E2DED4CB0EB7;6997.
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 31608 strings out of 492895
- 579249 string characters out of 3123736
- 788154 words of memory out of 3000000
- 34825 multiletter control sequences out of 15000+200000
- 29307 words of font info for 37 fonts, out of 3000000 for 9000
+ 31887 strings out of 492895
+ 584977 string characters out of 3123736
+ 806557 words of memory out of 3000000
+ 34914 multiletter control sequences out of 15000+200000
+ 29619 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,17n,68p,1994b,653s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{glo:agevap} has been referenced but does not exis
-t, replaced by a fixed one
+pdfTeX warning (dest): name{glo:iot} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:snis} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:ubs} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:urbam} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:ipea} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:abrelpe} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:rlr} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:rm} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{glo:rst} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:ra} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{glo:rcc} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:snvs} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:sisnama} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:rss} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:ri} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{glo:rspsb} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:rc} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{glo:rsu} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:rlu} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:rd} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{glo:pnrs} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:fgts} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:inss} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:gps} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:ssm} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:smaa} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:agevap} has been referenced but does not exist,
+ replaced by a fixed one
 
 pdfTeX warning (dest): name{glo:pmgirs} has been referenced but does not exist,
  replaced by a fixed one
 
 {C:/Users/Lucas/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<
-C:/Users/Lucas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8
-a.pfb><C:/Users/Lucas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helveti
-c/uhvr8a.pfb><C:/Users/Lucas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
-helvetic/uhvro8a.pfb>
-Output written on main.pdf (57 pages, 9185281 bytes).
+C:/Users/Lucas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr7.pfb><C:/Users/Lucas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/hel
+vetic/uhvb8a.pfb><C:/Users/Lucas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+urw/helvetic/uhvr8a.pfb><C:/Users/Lucas/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/urw/helvetic/uhvro8a.pfb>
+Output written on main.pdf (114 pages, 7154619 bytes).
 PDF statistics:
- 561 PDF objects out of 1000 (max. 8388607)
- 114 named destinations out of 1000 (max. 500000)
- 409 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1273 PDF objects out of 1440 (max. 8388607)
+ 254 named destinations out of 1000 (max. 500000)
+ 667 words of extra memory for PDF output out of 10000 (max. 10000000)
 
