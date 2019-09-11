@@ -452,10 +452,10 @@ contents={{\Large\textbf{\pagemark}}}
 \makeatother
 % ---
 
-
-
 %COR DOS TITULOS
 
 \definecolor{title1}{RGB}{151,72,7}
 \definecolor{title2}{RGB}{227,108,10}
 \definecolor{title3}{RGB}{89,89,89}
+\definecolor{capaprodmun}{RGB}{31,73,125}
+

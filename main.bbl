@@ -5,6 +5,7 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
+<<<<<<< HEAD
 \bibitem[Brasil 1999]{L979597:online}
 \abntrefinfo{Brasil}{BRASIL}{1999}
 {BRASIL. \emph{LEI No 9.795, DE 27 DE ABRIL DE 1999.} 1999.
@@ -23,4 +24,6 @@
 \emph{Revista do Tribunal Regional Federal da 1{\textordfeminine} Regi{\~a}o},
   v.~24, n.~7, p. 25--33, 2012.}
 
+=======
+>>>>>>> pmgirs_alteracoes
 \end{thebibliography}
