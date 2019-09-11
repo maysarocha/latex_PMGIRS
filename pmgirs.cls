@@ -2,7 +2,7 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{pmgirs}[2019/06/11 Modelo PMGIRS]
 
-\usepackage[nonumberlist,style=index,automake]{glossaries}%
+\usepackage[nonumberlist,style=index,automake]{glossaries} % parâmetro automake faz e atualiza o glossário
 \usepackage{multicol}
 
 \usepackage{enumitem}	%pacote de controle de listas -enu­mer­ate, item­ize and de­scrip­tion

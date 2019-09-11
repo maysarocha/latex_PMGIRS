@@ -5,25 +5,9 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
-<<<<<<< HEAD
-\bibitem[Brasil 1999]{L979597:online}
-\abntrefinfo{Brasil}{BRASIL}{1999}
-{BRASIL. \emph{LEI No 9.795, DE 27 DE ABRIL DE 1999.} 1999.
-  \url{http://www.planalto.gov.br/ccivil_03/leis/l9795.htm}.
-(Acessado em 09/05/2019).}
+\bibitem[Brasil 2010]{Brasil2010}
+\abntrefinfo{Brasil}{BRASIL}{2010}
+{BRASIL. \emph{{Lei n{\textordmasculine}12.305, de 2 de agosto de 2010}}.
+  Brasilia, DF: D.O.U. n{\textordmasculine}147 de 03/08/2010, 2010.}
 
-\bibitem[Brasil 1988]{do1988constituiccao}
-\abntrefinfo{Brasil}{BRASIL}{1988}
-{BRASIL, S.~F. Constitui{\c{c}}{\~a}o da rep{\'u}blica federativa do brasil.
-\emph{Bras{\'\i}lia: Senado Federal, Centro Gr{\'a}fico}, 1988.}
-
-\bibitem[Machado 2012]{machado2012principios}
-\abntrefinfo{Machado}{MACHADO}{2012}
-{MACHADO, P. A.~L. Princ{\'\i}pios da pol{\'\i}tica nacional de res{\'\i}duos
-  s{\'o}lidos.
-\emph{Revista do Tribunal Regional Federal da 1{\textordfeminine} Regi{\~a}o},
-  v.~24, n.~7, p. 25--33, 2012.}
-
-=======
->>>>>>> pmgirs_alteracoes
 \end{thebibliography}

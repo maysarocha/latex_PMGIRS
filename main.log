@@ -1,18 +1,10 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.4)  10 SEP 2019 16:05
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.7)  21 AUG 2019 10:19
->>>>>>> pmgirs_alteracoes
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.4)  11 SEP 2019 11:29
 entering extended mode
 **./main.tex
 (main.tex
 LaTeX2e <2018-12-01>
 (pmgirs.cls
-<<<<<<< HEAD
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/memoir\memoir.cls"
-=======
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/memoir\memoir.cls"
->>>>>>> pmgirs_alteracoes
 Document Class: memoir 2018/12/12 v3.7h configurable book, report, article docu
 ment class
 \onelineskip=\skip41
@@ -21,7 +13,6 @@ ment class
 \@memcnta=\count80
 \c@@memmarkcntra=\count81
 
-<<<<<<< HEAD
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
 ty"
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
@@ -35,21 +26,6 @@ sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
-=======
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
-ty"
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ifetex\ifetex.sty"
-Package: ifetex 2018/03/31 v1.2a ifetex
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/plain/ifetex\ifetex.tex"
-))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.
-sty"
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
->>>>>>> pmgirs_alteracoes
 x.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
@@ -59,11 +35,7 @@ Package ifluatex Info: LuaTeX not detected.
 \trimtop=\skip46
 \trimedge=\skip47
 
-<<<<<<< HEAD
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/memoir\mem10.clo"
-=======
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/memoir\mem10.clo"
->>>>>>> pmgirs_alteracoes
 File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 )
 \binding=\skip48
@@ -153,11 +125,7 @@ File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 \beforePoemTitleskip=\skip108
 \midPoemTitleskip=\skip109
 \afterPoemTitleskip=\skip110
-<<<<<<< HEAD
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
-=======
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
->>>>>>> pmgirs_alteracoes
 Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
 \col@sep=\dimen107
 \ar@mcellbox=\box27
@@ -167,7 +135,6 @@ Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
 \backup@length=\skip112
 \ar@cellbox=\box28
 )
-<<<<<<< HEAD
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\dcolumn.sty"
 Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
 )
@@ -176,16 +143,6 @@ Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
 Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
 )
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\tabularx.sty
-=======
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\dcolumn.sty"
-Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\delarray.sty
-"
-Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\tabularx.sty
->>>>>>> pmgirs_alteracoes
 "
 Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
 \TX@col@width=\dimen109
@@ -390,7 +347,6 @@ Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
 )
 Document Class: pmgirs 2019/06/11 Modelo PMGIRS
-<<<<<<< HEAD
 
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/base\gl
 ossaries.sty"
@@ -1580,40 +1536,40 @@ File: tikzlibrarycalc.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 \glo@main@file=\write6
 \openout6 = `main.glo'.
 
-Package glossaries Info: Writing glossary file main.glo on input line 7.
+Package glossaries Info: Writing glossary file main.glo on input line 8.
  (main.aux
 (src/layout/capa.aux) (src/basic/apresentacao.aux) (src/basic/introducao.aux)
 (produtos/proddois.aux) (src/layout/capafim.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 19.
 
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 18.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 19.
 
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 Package scrlayer Info: Setting magic \footheight to \baselineskip while
-(scrlayer)             \begin{document} on input line 18.
+(scrlayer)             \begin{document} on input line 19.
 
 
 Package scrlayer-scrpage Warning: Very small head height detected!
@@ -1693,7 +1649,7 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 \AtBeginShipoutBox=\box81
-Package hyperref Info: Link coloring OFF on input line 18.
+Package hyperref Info: Link coloring OFF on input line 19.
 
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -1705,15 +1661,15 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count314
 )
-LaTeX Info: Redefining \ref on input line 18.
-LaTeX Info: Redefining \pageref on input line 18.
-LaTeX Info: Redefining \nameref on input line 18.
+LaTeX Info: Redefining \ref on input line 19.
+LaTeX Info: Redefining \pageref on input line 19.
+LaTeX Info: Redefining \nameref on input line 19.
  (main.out) (main.out)
 \@outlinefile=\write7
 \openout7 = `main.out'.
 
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 18.
+LaTeX Info: Redefining \selectfont on input line 19.
 \openout2 = `src/layout/capa.aux'.
 
 
@@ -1724,21 +1680,21 @@ File: src/layout/capa.png Graphic file (type png)
 <use src/layout/capa.png>
 Package pdftex.def Info: src/layout/capa.png  used on input line 10.
 (pdftex.def)             Requested size: 597.53827pt x 845.04933pt.
+
+Overfull \hbox (57.18855pt too wide) in paragraph at lines 26--32
+[]$[]$ 
+ []
+
 <src/layout/Brasao_Monteiro_Lobato.jpg, id=155, 145.54375pt x 160.6pt>
 File: src/layout/Brasao_Monteiro_Lobato.jpg Graphic file (type jpg)
 <use src/layout/Brasao_Monteiro_Lobato.jpg>
 Package pdftex.def Info: src/layout/Brasao_Monteiro_Lobato.jpg  used on input l
-ine 34.
+ine 36.
 (pdftex.def)             Requested size: 71.13188pt x 78.49127pt.
-
-Overfull \hbox (21.33955pt too wide) in paragraph at lines 25--37
-[]$[]$
- []
-
 <src/layout/logo_agevap.png, id=156, 77.1975pt x 112.0185pt>
 File: src/layout/logo_agevap.png Graphic file (type png)
 <use src/layout/logo_agevap.png>
-Package pdftex.def Info: src/layout/logo_agevap.png  used on input line 40.
+Package pdftex.def Info: src/layout/logo_agevap.png  used on input line 42.
 (pdftex.def)             Requested size: 71.13188pt x 103.21892pt.
 [1
 
@@ -1749,1412 +1705,52 @@ Package pdftex.def Info: src/layout/logo_agevap.png  used on input line 40.
 t/capa.png> <./src/layout/Brasao_Monteiro_Lobato.jpg> <./src/layout/logo_agevap
 .png>]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 52.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 52.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 54.
  [2 <./src/layout/header.png>]
-LaTeX Font Info:    Try loading font information for TS1+phv on input line 68.
+LaTeX Font Info:    Try loading font information for TS1+phv on input line 70.
 
 ("C:\Users\Lucas\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1phv.fd"
 File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
 ) [3]) (src/layout/elaboracao.tex
-=======
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
-Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
-File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
-Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks22
-\inpenc@posthook=\toks23
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
-sty"
-Package: geometry 2018/04/16 v5.8 Page Geometry
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
-y"
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks24
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.
-sty"
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-\Gm@cnth=\count138
-\Gm@cntv=\count139
-\c@Gm@tempcnt=\count140
-\Gm@bindingoffset=\dimen147
-\Gm@wd@mp=\dimen148
-\Gm@odd@mp=\dimen149
-\Gm@even@mp=\dimen150
-\Gm@layoutwidth=\dimen151
-\Gm@layoutheight=\dimen152
-\Gm@layouthoffset=\dimen153
-\Gm@layoutvoffset=\dimen154
-\Gm@dimlist=\toks25
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
-cfg"))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlesec.
-sty"
-Package: titlesec 2019/07/16 v2.11 Sectioning titles
-\ttl@box=\box32
-\beforetitleunit=\skip185
-\aftertitleunit=\skip186
-\ttl@plus=\dimen155
-\ttl@minus=\dimen156
-\ttl@toksa=\toks26
-\titlewidth=\dimen157
-\titlewidthlast=\dimen158
-\titlewidthfirst=\dimen159
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlayer\
-tikz.sty"
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf
-.sty"
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfr
-cs.sty"
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
-futil-common.tex"
-\pgfutil@everybye=\toks27
-\pgfutil@tempdima=\dimen160
-\pgfutil@tempdimb=\dimen161
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
-futil-common-lists.tex"))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
-futil-latex.def"
-\pgfutil@abb=\box33
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
-frcs.code.tex"
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revision
-.tex")
-Package: pgfrcs 2019/08/03 v3.1.4b (3.1.4b)
-))
-Package: pgf 2019/08/03 v3.1.4b (3.1.4b)
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf
-core.sty"
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
-sty"
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
-sty"
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
-ics.cfg"
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 99.
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
-x.def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen162
-\Gin@req@width=\dimen163
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer\pg
-fsys.sty"
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
-pgfsys.code.tex"
-Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
-fkeys.code.tex"
-\pgfkeys@pathtoks=\toks28
-\pgfkeys@temptoks=\toks29
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
-fkeysfiltered.code.tex"
-\pgfkeys@tmptoks=\toks30
-))
-\pgf@x=\dimen164
-\pgf@y=\dimen165
-\pgf@xa=\dimen166
-\pgf@ya=\dimen167
-\pgf@xb=\dimen168
-\pgf@yb=\dimen169
-\pgf@xc=\dimen170
-\pgf@yc=\dimen171
-\pgf@xd=\dimen172
-\pgf@yd=\dimen173
-\w@pgf@writea=\write4
-\r@pgf@reada=\read2
-\c@pgf@counta=\count141
-\c@pgf@countb=\count142
-\c@pgf@countc=\count143
-\c@pgf@countd=\count144
-\t@pgf@toka=\toks31
-\t@pgf@tokb=\toks32
-\t@pgf@tokc=\toks33
-\pgf@sys@id@count=\count145
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
-pgf.cfg"
-File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
-)
-Driver file for pgf: pgfsys-pdftex.def
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
-pgfsys-pdftex.def"
-File: pgfsys-pdftex.def 2019/08/03 v3.1.4b (3.1.4b)
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
-pgfsys-common-pdf.def"
-File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
-)))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
-pgfsyssoftpath.code.tex"
-File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfsyssoftpath@smallbuffer@items=\count146
-\pgfsyssoftpath@bigbuffer@items=\count147
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
-pgfsysprotocol.code.tex"
-File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
-.cfg"
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: pdftex.def on input line 225.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
-gfcore.code.tex"
-Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
-.code.tex"
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
-calc.code.tex"
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
-util.code.tex")
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
-parser.code.tex"
-\pgfmath@dimen=\dimen174
-\pgfmath@count=\count148
-\pgfmath@box=\box34
-\pgfmath@toks=\toks34
-\pgfmath@stack@operand=\toks35
-\pgfmath@stack@operation=\toks36
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
-functions.code.tex"
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
-functions.basic.code.tex")
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
-functions.trigonometric.code.tex")
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
-functions.random.code.tex")
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
-functions.comparison.code.tex")
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
-functions.base.code.tex")
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
-functions.round.code.tex")
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
-functions.misc.code.tex")
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
-functions.integerarithmetics.code.tex")))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
-float.code.tex"
-\c@pgfmathroundto@lastzeros=\count149
-))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfint.
-code.tex")
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
-gfcorepoints.code.tex"
-File: pgfcorepoints.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@picminx=\dimen175
-\pgf@picmaxx=\dimen176
-\pgf@picminy=\dimen177
-\pgf@picmaxy=\dimen178
-\pgf@pathminx=\dimen179
-\pgf@pathmaxx=\dimen180
-\pgf@pathminy=\dimen181
-\pgf@pathmaxy=\dimen182
-\pgf@xx=\dimen183
-\pgf@xy=\dimen184
-\pgf@yx=\dimen185
-\pgf@yy=\dimen186
-\pgf@zx=\dimen187
-\pgf@zy=\dimen188
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
-gfcorepathconstruct.code.tex"
-File: pgfcorepathconstruct.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@path@lastx=\dimen189
-\pgf@path@lasty=\dimen190
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
-gfcorepathusage.code.tex"
-File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@shorten@end@additional=\dimen191
-\pgf@shorten@start@additional=\dimen192
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
-gfcorescopes.code.tex"
-File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfpic=\box35
-\pgf@hbox=\box36
-\pgf@layerbox@main=\box37
-\pgf@picture@serial@count=\count150
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
-gfcoregraphicstate.code.tex"
-File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgflinewidth=\dimen193
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
-gfcoretransformations.code.tex"
-File: pgfcoretransformations.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@pt@x=\dimen194
-\pgf@pt@y=\dimen256
-\pgf@pt@temp=\dimen257
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
-gfcorequick.code.tex"
-File: pgfcorequick.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
-gfcoreobjects.code.tex"
-File: pgfcoreobjects.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
-gfcorepathprocessing.code.tex"
-File: pgfcorepathprocessing.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
-gfcorearrows.code.tex"
-File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfarrowsep=\dimen258
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
-gfcoreshade.code.tex"
-File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@max=\dimen259
-\pgf@sys@shading@range@num=\count151
-\pgf@shadingcount=\count152
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
-gfcoreimage.code.tex"
-File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
-gfcoreexternal.code.tex"
-File: pgfcoreexternal.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfexternal@startupbox=\box38
-))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
-gfcorelayers.code.tex"
-File: pgfcorelayers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
-gfcoretransparency.code.tex"
-File: pgfcoretransparency.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
-gfcorepatterns.code.tex"
-File: pgfcorepatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
-gfcorerdf.code.tex"
-File: pgfcorerdf.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-)))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfm
-oduleshapes.code.tex"
-File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfnodeparttextbox=\box39
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfm
-oduleplot.code.tex"
-File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\
-pgfcomp-version-0-65.sty"
-Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@nodesepstart=\dimen260
-\pgf@nodesepend=\dimen261
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\
-pgfcomp-version-1-18.sty"
-Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
-))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgff
-or.sty"
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfk
-eys.sty"
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
-fkeys.code.tex"))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmath.s
-ty"
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
-.code.tex"))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
-ffor.code.tex"
-Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
-.code.tex")
-\pgffor@iter=\dimen262
-\pgffor@skip=\dimen263
-\pgffor@stack=\toks37
-\pgffor@toks=\toks38
-))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
-r/tikz\tikz.code.tex"
-Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pg
-flibraryplothandlers.code.tex"
-File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgf@plot@mark@count=\count153
-\pgfplotmarksize=\dimen264
-)
-\tikz@lastx=\dimen265
-\tikz@lasty=\dimen266
-\tikz@lastxsaved=\dimen267
-\tikz@lastysaved=\dimen268
-\tikz@lastmovetox=\dimen269
-\tikz@lastmovetoy=\dimen270
-\tikzleveldistance=\dimen271
-\tikzsiblingdistance=\dimen272
-\tikz@figbox=\box40
-\tikz@figbox@bg=\box41
-\tikz@tempbox=\box42
-\tikz@tempbox@bg=\box43
-\tikztreelevel=\count154
-\tikznumberofchildren=\count155
-\tikznumberofcurrentchild=\count156
-\tikz@fig@count=\count157
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfm
-odulematrix.code.tex"
-File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfmatrixcurrentrow=\count158
-\pgfmatrixcurrentcolumn=\count159
-\pgf@matrix@numberofcolumns=\count160
-)
-\tikz@expandcount=\count161
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
-r/tikz/libraries\tikzlibrarytopaths.code.tex"
-File: tikzlibrarytopaths.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-)))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrlay
-er.sty"
-Package: scrlayer 2019/02/01 v3.26b KOMA-Script package (defining layers and pa
-ge styles)
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrkba
-se.sty"
-Package: scrkbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-dependent 
-basics and keyval usage)
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrbas
-e.sty"
-Package: scrbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-independent
- basics and keyval usage)
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrlfi
-le.sty"
-Package: scrlfile 2019/02/01 v3.26b KOMA-Script package (loading files)
-
-
-LaTeX Warning: Command \InputIfFileExists  has changed.
-               Check if current package is valid.
-
-)))
-\footheight=\skip187
-Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 208
-3.
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
-Package: babel 2019/07/19 3.33 The Babel package
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def
-"
-File: switch.def 2019/07/19 3.33 Babel switching mechanism
-)
-*************************************
-* Local config file bblopts.cfg used
-*
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-portuges\por
-tuges.ldf"
-Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
-File: babel.def 2019/07/19 3.33 Babel common definitions
-\babel@savecnt=\count162
-\U@D=\dimen273
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.d
-ef")
-\bbl@dirlevel=\count163
-)
-\l@brazil = a dialect from \language\l@portuges 
-Package babel Info: Making " an active character on input line 145.
-))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count164
-\calc@Bcount=\count165
-\calc@Adimen=\dimen274
-\calc@Bdimen=\dimen275
-\calc@Askip=\skip188
-\calc@Bskip=\skip189
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count166
-\calc@Cskip=\skip190
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/leading\leading.st
-y"
-Package: leading 2008/12/11 v0.3 Define leading length
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumitem.
-sty"
-Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip191
-\enit@outerparindent=\dimen276
-\enit@toks=\toks39
-\enit@inbox=\box44
-\enit@count@id=\count167
-\enitdp@description=\count168
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.
-sty"
-Package: hyperref 2019/06/12 v6.88h Hypertext links for LaTeX
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-
-hyperref.sty"
-Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
-
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-
-generic.sty"
-Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-Package hobsub Info: Skipping package `ifluatex' (already loaded).
-Package hobsub Info: Skipping package `ifvtex' (already loaded).
-Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
-Package hobsub Info: Skipping package `ifpdf' (already loaded).
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
-)
-Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
-Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
-)
-Package hobsub Info: Skipping package `hobsub' (already loaded).
-Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
-Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
-Package: xcolor-patch 2016/05/16 xcolor patch
-Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
-Package atveryend Info: \enddocument detected (standard20110627).
-Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
-Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
-Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.s
-ty"
-Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
-.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-)
-\@linkdim=\dimen277
-\Hy@linkcounter=\count169
-\Hy@pagecounter=\count170
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.de
-f"
-File: pd1enc.def 2019/06/12 v6.88h Hyperref: PDFDocEncoding definition (HO)
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
-)
-\Hy@SavedSpaceFactor=\count171
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.
-cfg"
-File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
-)
-Package hyperref Info: Hyper figures OFF on input line 4550.
-Package hyperref Info: Link nesting OFF on input line 4555.
-Package hyperref Info: Hyper index ON on input line 4558.
-Package hyperref Info: Plain pages OFF on input line 4565.
-Package hyperref Info: Backreferencing OFF on input line 4570.
-Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4803.
-\c@Hy@tempcnt=\count172
- ("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
-\Urlmuskip=\muskip10
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-LaTeX Info: Redefining \url on input line 5156.
-\XeTeXLinkMargin=\dimen278
-\Fld@menulength=\count173
-\Field@Width=\dimen279
-\Fld@charsize=\dimen280
-Package hyperref Info: Hyper figures OFF on input line 6411.
-Package hyperref Info: Link nesting OFF on input line 6416.
-Package hyperref Info: Hyper index ON on input line 6419.
-Package hyperref Info: backreferencing OFF on input line 6426.
-Package hyperref Info: Link coloring OFF on input line 6431.
-Package hyperref Info: Link coloring with OCG OFF on input line 6436.
-Package hyperref Info: PDF/A mode OFF on input line 6441.
-LaTeX Info: Redefining \ref on input line 6481.
-LaTeX Info: Redefining \pageref on input line 6485.
-\Hy@abspage=\count174
-\c@Item=\count175
-\c@Hfootnote=\count176
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/memoir\memhfixc.st
-y"
-Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
-ass
-\c@memhycontfloat=\count177
-\c@Hpagenote=\count178
-)
-Package hyperref Info: Driver (autodetected): hpdftex.
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.d
-ef"
-File: hpdftex.def 2019/06/12 v6.88h Hyperref driver for pdfTeX
-\Fld@listcount=\count179
-\c@bookmark@seq@number=\count180
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfile
-check.sty"
-Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
-)
-\Hy@SectionHShift=\skip192
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\longtable.st
-y"
-Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
-\LTleft=\skip193
-\LTright=\skip194
-\LTpre=\skip256
-\LTpost=\skip257
-\LTchunksize=\count181
-\LTcapwidth=\dimen281
-\LT@head=\box45
-\LT@firsthead=\box46
-\LT@foot=\box47
-\LT@lastfoot=\box48
-\LT@cols=\count182
-\LT@rows=\count183
-\c@LT@tables=\count184
-\c@LT@chunks=\count185
-\LT@p@ftn=\toks40
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\ltcaption.
-sty"
-Package: ltcaption 2018/08/26 v1.4-95 longtable captions (AR)
-\LTcapskip=\skip258
-\LTcapleft=\skip259
-\LTcapright=\skip260
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-
-Package geometry Warning: Over-specification in `h'-direction.
-    `width' (426.79134pt) is ignored.
-
-
-Package geometry Warning: Over-specification in `v'-direction.
-    `height' (711.3189pt) is ignored.
-
-\headimage=\box49
-<src/layout/header.png, id=4, 1865.46938pt x 54.2025pt>
-File: src/layout/header.png Graphic file (type png)
-<use src/layout/header.png>
-Package pdftex.def Info: src/layout/header.png  used on input line 104.
-(pdftex.def)             Requested size: 597.50787pt x 17.36086pt.
-\footimage=\box50
-<src/layout/bottom.png, id=5, 1800.7275pt x 228.855pt>
-File: src/layout/bottom.png Graphic file (type png)
-<use src/layout/bottom.png>
-Package pdftex.def Info: src/layout/bottom.png  used on input line 113.
-(pdftex.def)             Requested size: 455.23651pt x 49.78952pt.
-\c@quadro=\count186
-\c@loqdepth=\count187
-\cftbeforequadroskip=\skip261
-\cftquadroindent=\skip262
-\cftquadronumwidth=\skip263
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/base\gl
-ossaries.sty"
-Package: glossaries 2019/01/06 v4.42 (NLCT)
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.st
-y"
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.
-tex"
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils
-.tex"
-\XKV@toks=\toks41
-\XKV@tempa@toks=\toks42
-)
-\XKV@depth=\count188
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mfirstuc\mfirstuc.
-sty"
-Package: mfirstuc 2017/11/14 v2.06 (NLCT)
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.
-sty"
-Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count189
-)
-\@glsmfirst=\toks43
-\@glsmrest=\toks44
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/textcase\textcase.
-sty"
-Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
-LaTeX Info: Redefining \MakeTextUppercase on input line 47.
-LaTeX Info: Redefining \MakeTextLowercase on input line 50.
-) ("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xfor\xfor.sty"
-Package: xfor 2009/02/05 v1.05 (NLCT)
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/datatool\datatool-
-base.sty"
-Package: datatool-base 2018/12/07 v2.31 (NLCT)
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
-y"
-Package: amsmath 2018/12/01 v2.17b AMS math features
-\@mathmargin=\skip264
-
-For additional information on amsmath, use the `?' option.
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
-y"
-Package: amstext 2000/06/29 v2.01 AMS text
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
-"
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks45
-\ex@=\dimen282
-))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
-"
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen283
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
-"
-Package: amsopn 2016/03/08 v2.02 operator names
-)
-\inf@bad=\count190
-LaTeX Info: Redefining \frac on input line 223.
-\uproot@=\count191
-\leftroot@=\count192
-LaTeX Info: Redefining \overline on input line 385.
-\classnum@=\count193
-\DOTSCASE@=\count194
-LaTeX Info: Redefining \ldots on input line 482.
-LaTeX Info: Redefining \dots on input line 485.
-LaTeX Info: Redefining \cdots on input line 606.
-\Mathstrutbox@=\box51
-\strutbox@=\box52
-\big@size=\dimen284
-LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
-\macc@depth=\count266
-\c@MaxMatrixCols=\count267
-\dotsspace@=\muskip11
-\c@parentequation=\count268
-\dspbrk@lvl=\count269
-\tag@help=\toks46
-\row@=\count270
-\column@=\count271
-\maxfields@=\count272
-\andhelp@=\toks47
-\eqnshift@=\dimen285
-\alignsep@=\dimen286
-\tagshift@=\dimen287
-\tagwidth@=\dimen288
-\totwidth@=\dimen289
-\lineht@=\dimen290
-\@envbody=\toks48
-\multlinegap=\skip265
-\multlinetaggap=\skip266
-\mathdisplay@stack=\toks49
-LaTeX Info: Redefining \[ on input line 2844.
-LaTeX Info: Redefining \] on input line 2845.
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/substr\substr.sty"
-Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count273
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/datatool\datatool-
-fp.sty"
-Package: datatool-fp 2018/12/07 v2.31 (NLCT)
- ("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp.sty"
-Package: fp 1995/04/02
-`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\defpattern.sty"
-Package: defpattern 1994/10/12
-\actioncount=\count274
-) ("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-basic.sty"
-Package: fp-basic 1996/05/13
-\FP@xs=\count275
-\FP@xia=\count276
-\FP@xib=\count277
-\FP@xfa=\count278
-\FP@xfb=\count279
-\FP@rega=\count280
-\FP@regb=\count281
-\FP@regs=\count282
-\FP@times=\count283
-) ("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-addons.sty
-"
-Package: fp-addons 1995/03/15
-) ("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-snap.sty"
-Package: fp-snap 1995/04/05
-) ("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-exp.sty"
-Package: fp-exp 1995/04/03
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-trigo.sty"
-Package: fp-trigo 1995/04/14
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-pas.sty"
-Package: fp-pas 1994/08/29
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-random.sty"
-Package: fp-random 1995/02/23
-\FPseed=\count284
-) ("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-eqn.sty"
-Package: fp-eqn 1995/04/03
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-upn.sty"
-Package: fp-upn 1996/10/21
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fp\fp-eval.sty"
-Package: fp-eval 1995/04/03
-)))
-\@dtl@toks=\toks50
-\@dtl@tmpcount=\count285
-\dtl@tmplength=\skip267
-\dtl@sortresult=\count286
-\@dtl@numgrpsepcount=\count287
-\@dtl@datatype=\count288
-\dtl@codeA=\count289
-\dtl@codeB=\count290
-\@dtl@foreach@level=\count291
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/base\gl
-ossaries-compatible-307.sty"
-Package: glossaries-compatible-307 2019/01/06 v4.42 (NLCT)
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tracklang\tracklan
-g.sty"
-Package: tracklang 2018/05/13 v1.3.6 (NLCT) Track Languages
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tracklang\trackl
-ang.tex"))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\transla
-tor.sty"
-Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries-portuge
-s\glossaries-pt-BR.ldf"
-File: glossaries-pt-BR.ldf 2014/11/23 v1.0
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries-portuge
-s\glossaries-portuges-utf8.ldf"))
-\gls@level=\count292
-\@gls@tmpb=\toks51
-\gls@tmplen=\skip268
-
-
-Package glossaries Warning: Overriding \printglossary on input line 5822.
-
-
-Package glossaries Warning: Overriding `theglossary' environment on input line 
-6412.
-
-\glskeylisttok=\toks52
-\glslabeltok=\toks53
-\glsshorttok=\toks54
-\glslongtok=\toks55
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/styles\
-glossary-hypernav.sty"
-Package: glossary-hypernav 2019/01/06 v4.42 (NLCT)
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/styles\
-glossary-list.sty"
-Package: glossary-list 2019/01/06 v4.42 (NLCT)
-\glslistdottedwidth=\skip269
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/styles\
-glossary-long.sty"
-Package: glossary-long 2019/01/06 v4.42 (NLCT)
-\glsdescwidth=\skip270
-\glspagelistwidth=\skip271
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/styles\
-glossary-super.sty"
-Package: glossary-super 2019/01/06 v4.42 (NLCT)
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/supertabular\super
-tabular.sty"
-Package: supertabular 2004/02/20 v4.1e the supertabular environment
-\c@tracingst=\count293
-\ST@wd=\dimen291
-\ST@rightskip=\skip272
-\ST@leftskip=\skip273
-\ST@parfillskip=\skip274
-\ST@pageleft=\dimen292
-\ST@headht=\dimen293
-\ST@tailht=\dimen294
-\ST@pagesofar=\dimen295
-\ST@pboxht=\dimen296
-\ST@lineht=\dimen297
-\ST@stretchht=\dimen298
-\ST@prevht=\dimen299
-\ST@toadd=\dimen300
-\ST@dimen=\dimen301
-\ST@pbox=\box53
-))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/glossaries/styles\
-glossary-tree.sty"
-Package: glossary-tree 2019/01/06 v4.42 (NLCT)
-\glstreeindent=\skip275
-))
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.sty
-"
-Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
-\c@tracingmulticols=\count294
-\mult@box=\box54
-\multicol@leftmargin=\dimen302
-\c@unbalance=\count295
-\c@collectmore=\count296
-\doublecol@number=\count297
-\multicoltolerance=\count298
-\multicolpretolerance=\count299
-\full@width=\dimen303
-\page@free=\dimen304
-\premulticols=\dimen305
-\postmulticols=\dimen306
-\multicolsep=\skip276
-\multicolbaselineskip=\skip277
-\partial@page=\box55
-\last@line=\box56
-\maxbalancingoverflow=\dimen307
-\mult@rightbox=\box57
-\mult@grightbox=\box58
-\mult@gfirstbox=\box59
-\mult@firstbox=\box60
-\@tempa=\box61
-\@tempa=\box62
-\@tempa=\box63
-\@tempa=\box64
-\@tempa=\box65
-\@tempa=\box66
-\@tempa=\box67
-\@tempa=\box68
-\@tempa=\box69
-\@tempa=\box70
-\@tempa=\box71
-\@tempa=\box72
-\@tempa=\box73
-\@tempa=\box74
-\@tempa=\box75
-\@tempa=\box76
-\@tempa=\box77
-\c@columnbadness=\count300
-\c@finalcolumnbadness=\count301
-\last@try=\dimen308
-\multicolovershoot=\dimen309
-\multicolundershoot=\dimen310
-\mult@nat@firstbox=\box78
-\colbreak@box=\box79
-\mc@col@check@num=\count302
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/abntex2\abntex2cit
-e.sty"
-Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/abntex2\abntex2abr
-ev.sty")
-\minimumbiblabelwidth=\skip278
-\ABCIauxlen=\skip279
-\c@ABCIaux=\count303
-\c@ABCImax=\count304
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/relsize\relsize.st
-y"
-Package: relsize 2013/03/29 ver 4.1
-)
-\biblabelsep=\skip280
-LaTeX Info: Redefining \newblock on input line 591.
-LaTeX Info: Redefining \cite on input line 618.
-\ABCItoken=\toks56
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\textcomp.sty"
-Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
-Package textcomp Info: Sub-encoding information:
-(textcomp)               5 = only ISO-Adobe without \textcurrency
-(textcomp)               4 = 5 + \texteuro
-(textcomp)               3 = 4 + \textohm
-(textcomp)               2 = 3 + \textestimated + \textcurrency
-(textcomp)               1 = TS1 - \textcircled - \t
-(textcomp)               0 = TS1 (full)
-(textcomp)             Font families with sub-encoding setting implement
-(textcomp)             only a restricted character set as indicated.
-(textcomp)             Family '?' is the default used for unknown fonts.
-(textcomp)             See the documentation for details.
-Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.def"
-File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
-Now handling font encoding TS1 ...
-... processing UTF-8 mapping file for font encoding TS1
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
-File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
-   defining Unicode char U+00A2 (decimal 162)
-   defining Unicode char U+00A3 (decimal 163)
-   defining Unicode char U+00A4 (decimal 164)
-   defining Unicode char U+00A5 (decimal 165)
-   defining Unicode char U+00A6 (decimal 166)
-   defining Unicode char U+00A7 (decimal 167)
-   defining Unicode char U+00A8 (decimal 168)
-   defining Unicode char U+00A9 (decimal 169)
-   defining Unicode char U+00AA (decimal 170)
-   defining Unicode char U+00AC (decimal 172)
-   defining Unicode char U+00AE (decimal 174)
-   defining Unicode char U+00AF (decimal 175)
-   defining Unicode char U+00B0 (decimal 176)
-   defining Unicode char U+00B1 (decimal 177)
-   defining Unicode char U+00B2 (decimal 178)
-   defining Unicode char U+00B3 (decimal 179)
-   defining Unicode char U+00B4 (decimal 180)
-   defining Unicode char U+00B5 (decimal 181)
-   defining Unicode char U+00B6 (decimal 182)
-   defining Unicode char U+00B7 (decimal 183)
-   defining Unicode char U+00B9 (decimal 185)
-   defining Unicode char U+00BA (decimal 186)
-   defining Unicode char U+00BC (decimal 188)
-   defining Unicode char U+00BD (decimal 189)
-   defining Unicode char U+00BE (decimal 190)
-   defining Unicode char U+00D7 (decimal 215)
-   defining Unicode char U+00F7 (decimal 247)
-   defining Unicode char U+0192 (decimal 402)
-   defining Unicode char U+02C7 (decimal 711)
-   defining Unicode char U+02D8 (decimal 728)
-   defining Unicode char U+02DD (decimal 733)
-   defining Unicode char U+0E3F (decimal 3647)
-   defining Unicode char U+2016 (decimal 8214)
-   defining Unicode char U+2020 (decimal 8224)
-   defining Unicode char U+2021 (decimal 8225)
-   defining Unicode char U+2022 (decimal 8226)
-   defining Unicode char U+2030 (decimal 8240)
-   defining Unicode char U+2031 (decimal 8241)
-   defining Unicode char U+203B (decimal 8251)
-   defining Unicode char U+203D (decimal 8253)
-   defining Unicode char U+2044 (decimal 8260)
-   defining Unicode char U+204E (decimal 8270)
-   defining Unicode char U+2052 (decimal 8274)
-   defining Unicode char U+20A1 (decimal 8353)
-   defining Unicode char U+20A4 (decimal 8356)
-   defining Unicode char U+20A6 (decimal 8358)
-   defining Unicode char U+20A9 (decimal 8361)
-   defining Unicode char U+20AB (decimal 8363)
-   defining Unicode char U+20AC (decimal 8364)
-   defining Unicode char U+20B1 (decimal 8369)
-   defining Unicode char U+2103 (decimal 8451)
-   defining Unicode char U+2116 (decimal 8470)
-   defining Unicode char U+2117 (decimal 8471)
-   defining Unicode char U+211E (decimal 8478)
-   defining Unicode char U+2120 (decimal 8480)
-   defining Unicode char U+2122 (decimal 8482)
-   defining Unicode char U+2126 (decimal 8486)
-   defining Unicode char U+2127 (decimal 8487)
-   defining Unicode char U+212E (decimal 8494)
-   defining Unicode char U+2190 (decimal 8592)
-   defining Unicode char U+2191 (decimal 8593)
-   defining Unicode char U+2192 (decimal 8594)
-   defining Unicode char U+2193 (decimal 8595)
-   defining Unicode char U+2329 (decimal 9001)
-   defining Unicode char U+232A (decimal 9002)
-   defining Unicode char U+2422 (decimal 9250)
-   defining Unicode char U+25E6 (decimal 9702)
-   defining Unicode char U+25EF (decimal 9711)
-   defining Unicode char U+266A (decimal 9834)
-   defining Unicode char U+FEFF (decimal 65279)
-))
-LaTeX Info: Redefining \oldstylenums on input line 334.
-Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
-Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
-Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
-Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
-Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
-Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
-Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
-Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
-Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
-Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
-Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
-Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
-Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
-Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
-Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
-Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
-Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
-Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
-Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
-Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
-Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
-Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
-Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
-Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
-
-Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
-Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
-Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
-Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
-Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
-Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
-Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
-Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
-Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
-Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
-Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
-Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
-Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
-Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
-Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
-Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
-Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
-Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
-Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
-Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
-Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
-Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
-Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
-Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
-Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
-Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
-Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
-Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
-Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
-Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
-Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
-Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
-Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
-Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
-Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
-Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
-Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
-)
-
-******************************************************
-Stock height and width: 845.04684pt by 597.50787pt
-Top and edge trims: 0pt and 0pt
-Page height and width: 845.04684pt by 597.50787pt
-Text height and width: 706pt by 426pt
-Spine and edge margins: 85.35826pt and 85.35826pt
-Upper and lower margins: 56.9055pt and 82.14134pt
-Headheight and headsep: 12pt and 18.06749pt
-Footskip: 25.29494pt
-Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: 7pt and 71.35826pt
-Sidecapsep and sidecapwidth: 7pt and 128pt
-Sidebarhsep and sidebarwidth: 7pt and 128pt
-Sidebarvsep and sidebartopsep: 12pt and 0pt
-Sidebarheight: 548.39996pt
-Sidefoothsep and sidefootwidth: 7pt and 128pt
-Sidefootvsep and sidefootheight: 12pt and 548.39996pt
-******************************************************
-
-(glossario.tex)
-\glswrite=\write5
-\glo@main@file=\write6
-\openout6 = `main.glo'.
-
-Package glossaries Info: Writing glossary file main.glo on input line 24.
- (main.aux (src/layout/capa.aux) (src/basic/apresentacao.aux)
-(src/basic/introducao.aux) (produtos/prodtres.aux))
-\openout1 = `main.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 27.
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
-File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 27.
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1phv.fd"
-File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
-)
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
-* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
-* v-part:(T,H,B)=(71.13188pt, 617.42482pt, 156.49014pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=426.0pt
-* \textheight=706.0pt
-* \oddsidemargin=13.0pt
-* \evensidemargin=13.0pt
-* \topmargin=-45.43198pt
-* \headheight=12.0pt
-* \headsep=18.06749pt
-* \topskip=10.0pt
-* \footskip=25.29494pt
-* \marginparwidth=71.35826pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-ABD: EveryShipout initializing macros
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
-df.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count305
-\scratchdimen=\dimen311
-\scratchbox=\box80
-\nofMPsegments=\count306
-\nofMParguments=\count307
-\everyMPshowfont=\toks57
-\MPscratchCnt=\count308
-\MPscratchDim=\dimen312
-\MPnumerator=\count309
-\makeMPintoPDFobject=\count310
-\everyMPtoPDFconversion=\toks58
-)
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
-y"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-)
-Package scrlayer Info: Setting magic \footheight to \baselineskip while
-(scrlayer)             \begin{document} on input line 27.
-\AtBeginShipoutBox=\box81
-Package hyperref Info: Link coloring OFF on input line 27.
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
-ty"
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitl
-estring.sty"
-Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
-)
-\c@section@level=\count311
-)
-LaTeX Info: Redefining \ref on input line 27.
-LaTeX Info: Redefining \pageref on input line 27.
-LaTeX Info: Redefining \nameref on input line 27.
- (main.out) (main.out)
-\@outlinefile=\write7
-\openout7 = `main.out'.
-
-\openout2 = `src/layout/capa.aux'.
-
- (src/layout/capa.tex
-\capaimage=\box82
-<src/layout/capa.png, id=2804, 1330.9725pt x 1882.03125pt>
-File: src/layout/capa.png Graphic file (type png)
-<use src/layout/capa.png>
-Package pdftex.def Info: src/layout/capa.png  used on input line 10.
-(pdftex.def)             Requested size: 597.51047pt x 845.03961pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1
-
-\openout5 = `main.ist'.
-
-
- <./src/layout/capa.png>]) (src/layout/elaboracao.tex
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 3.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<src/basic/agevap.png, id=2810, 150.5625pt x 78.2925pt>
-File: src/basic/agevap.png Graphic file (type png)
-<use src/basic/agevap.png>
-Package pdftex.def Info: src/basic/agevap.png  used on input line 43.
-(pdftex.def)             Requested size: 85.35826pt x 44.38824pt.
-<src/basic/unesp.png, id=2811, 292.84406pt x 97.11281pt>
-File: src/basic/unesp.png Graphic file (type png)
-<use src/basic/unesp.png>
-Package pdftex.def Info: src/basic/unesp.png  used on input line 45.
-(pdftex.def)             Requested size: 85.35826pt x 28.30573pt.
-
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[2{C:/Users/liks9/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+[4
 
 
-
- <./src/layout/header.png> <./src/layout/bottom.png> <./src/basic/agevap.png> <
-./src/basic/unesp.png>])
-\openout2 = `src/basic/apresentacao.aux'.
-
- (src/basic/apresentacao.tex
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 4.
-LaTeX Font Info:    Try loading font information for TS1+phv on input line 12.
-
-("C:\Users\liks9\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1phv.fd"
-File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
-)
+ <./src/layout/bottom.png>]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[3
-
-
-
-])
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[4] (main.gls
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 1.
- [5
-
-
-
-]
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 86.
-
+[5]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [6])
+\openout2 = `src/basic/apresentacao.aux'.
+
+ (src/basic/apresentacao.tex
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[7] (main.lof
-Overfull \hbox (1.17978pt too wide) detected at line 4
- \T1/phv/m/n/10 134
+[7
+
+
+]
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
  []
 
-
-Overfull \hbox (1.17978pt too wide) detected at line 5
- \T1/phv/m/n/10 135
- []
-
-
-Overfull \hbox (1.17978pt too wide) detected at line 6
- \T1/phv/m/n/10 137
- []
-
-
-Overfull \hbox (1.17978pt too wide) detected at line 7
- \T1/phv/m/n/10 138
- []
-
-
-Overfull \hbox (1.17978pt too wide) detected at line 8
- \T1/phv/m/n/10 139
+[8]
+Overfull \hbox (26.05008pt too wide) in paragraph at lines 35--36
+[]\T1/phv/m/n/10 Roteiros para con-cre-ti-za-ção das in-ter-ven-ções se-le-ci-o
+-na-das (mo-de-los tático-operacionais),
  []
 
 )
@@ -3162,24 +1758,21 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[8
+[9] (main.gls
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1.
 
-]
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 39.
- (main.loq)
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[9
+[10
 
 
-] (main.toc [10
 
 ]
-Underfull \vbox (badness 7851) has occurred while \output is active []
-
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 78.
 
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
@@ -3191,27 +1784,16 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
  []
 
 [12]
-\openout2 = `src/basic/introducao.aux'.
-
- (src/basic/introducao.tex
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 1.
-
-)
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 36.
+ (main.lof)
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [13
 
-]
-\openout2 = `produtos/prodtres.aux'.
-
- (produtos/prodtres.tex
-LaTeX Font Info:    Font shape `T1/phv/bx/sc' in size <12> not available
-(Font)              Font shape `T1/phv/b/sc' tried instead on input line 2.
-
+] (main.toc
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
@@ -3219,97 +1801,175 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [14
 
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+])
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [15]
-Overfull \hbox (4.4049pt too wide) in paragraph at lines 48--49
-[]\T1/phv/m/n/10 gerados nes-sas
- []
+\openout2 = `src/basic/introducao.aux'.
 
-
-Overfull \hbox (3.13535pt too wide) in paragraph at lines 49--50
-[]\T1/phv/m/n/10 gerados nes-sas ati-vi-da-des,
- []
-
-
+ (src/basic/introducao.tex)
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[16]
+[16
+
+]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [17]
+\openout2 = `produtos/proddois.aux'.
+
+ (produtos/proddois.tex
+<produtos/proddois/image16.png, id=312, 506.89375pt x 341.275pt>
+File: produtos/proddois/image16.png Graphic file (type png)
+<use produtos/proddois/image16.png>
+Package pdftex.def Info: produtos/proddois/image16.png  used on input line 9.
+(pdftex.def)             Requested size: 426.79135pt x 287.35121pt.
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[18]
+[18
+
+
+ <./produtos/proddois/image16.png>]
+<produtos/proddois/image17.png, id=319, 390.45876pt x 524.96124pt>
+File: produtos/proddois/image17.png Graphic file (type png)
+<use produtos/proddois/image17.png>
+Package pdftex.def Info: produtos/proddois/image17.png  used on input line 19.
+(pdftex.def)             Requested size: 384.1096pt x 516.44505pt.
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[19]
+[19 <./produtos/proddois/image17.png>]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [20]
+<produtos/proddois/image18.png, id=332, 339.2675pt x 174.6525pt>
+File: produtos/proddois/image18.png Graphic file (type png)
+<use produtos/proddois/image18.png>
+Package pdftex.def Info: produtos/proddois/image18.png  used on input line 41.
+(pdftex.def)             Requested size: 341.43437pt x 175.77402pt.
+<produtos/proddois/image19.png, id=333, 230.8625pt x 163.61125pt>
+File: produtos/proddois/image19.png Graphic file (type png)
+<use produtos/proddois/image19.png>
+Package pdftex.def Info: produtos/proddois/image19.png  used on input line 49.
+(pdftex.def)             Requested size: 341.43437pt x 241.99104pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[21]
+[21 <./produtos/proddois/image18.png>]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[22]
-
-LaTeX Warning: Command \' invalid in math mode on input line 207.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 207.
-
-Missing character: There is no á in font cmr10!
-Missing character: There is no é in font cmr10!
-
+[22 <./produtos/proddois/image19.png>]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [23]
+<produtos/proddois/image20.png, id=351, 428.60126pt x 268.00125pt>
+File: produtos/proddois/image20.png Graphic file (type png)
+<use produtos/proddois/image20.png>
+Package pdftex.def Info: produtos/proddois/image20.png  used on input line 84.
+(pdftex.def)             Requested size: 362.77525pt x 226.84113pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<produtos/proddois/image21.png, id=352, 393.47pt x 257.96375pt>
+File: produtos/proddois/image21.png Graphic file (type png)
+<use produtos/proddois/image21.png>
+Package pdftex.def Info: produtos/proddois/image21.png  used on input line 92.
+(pdftex.def)             Requested size: 362.77525pt x 237.83728pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<produtos/proddois/image22.png, id=353, 413.545pt x 221.82875pt>
+File: produtos/proddois/image22.png Graphic file (type png)
+<use produtos/proddois/image22.png>
+Package pdftex.def Info: produtos/proddois/image22.png  used on input line 100.
+
+(pdftex.def)             Requested size: 362.77525pt x 194.60062pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<produtos/proddois/image23.png, id=355, 360.34625pt x 180.675pt>
+File: produtos/proddois/image23.png Graphic file (type png)
+<use produtos/proddois/image23.png>
+Package pdftex.def Info: produtos/proddois/image23.png  used on input line 111.
+
+(pdftex.def)             Requested size: 362.77525pt x 181.89308pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [24]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
 
-[25]
-Underfull \vbox (badness 4084) has occurred while \output is active []
+LaTeX Warning: Text page 25 contains only floats.
 
 
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[26]
+[25 <./produtos/proddois/image20.png> <./produtos/proddois/image21.png>]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[27]
+[26 <./produtos/proddois/image22.png> <./produtos/proddois/image23.png>]
+<produtos/proddois/image24.png, id=375, 428.60126pt x 252.945pt>
+File: produtos/proddois/image24.png Graphic file (type png)
+<use produtos/proddois/image24.png>
+Package pdftex.def Info: produtos/proddois/image24.png  used on input line 122.
+
+(pdftex.def)             Requested size: 362.77525pt x 214.09724pt.
+<produtos/proddois/image25.png, id=376, 428.60126pt x 273.02pt>
+File: produtos/proddois/image25.png Graphic file (type png)
+<use produtos/proddois/image25.png>
+Package pdftex.def Info: produtos/proddois/image25.png  used on input line 130.
+
+(pdftex.def)             Requested size: 362.77525pt x 231.0891pt.
+
+Overfull \hbox (79.66776pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[27 <./produtos/proddois/image24.png> <./produtos/proddois/image25.png>]
+<produtos/proddois/image26.png, id=384, 390.45876pt x 207.77625pt>
+File: produtos/proddois/image26.png Graphic file (type png)
+<use produtos/proddois/image26.png>
+Package pdftex.def Info: produtos/proddois/image26.png  used on input line 150.
+
+(pdftex.def)             Requested size: 426.79135pt x 227.12154pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
@@ -3319,22 +1979,33 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[29]
+[29 <./produtos/proddois/image26.png>]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [30]
+<produtos/proddois/image27.png, id=399, 388.45125pt x 522.95375pt>
+File: produtos/proddois/image27.png Graphic file (type png)
+<use produtos/proddois/image27.png>
+Package pdftex.def Info: produtos/proddois/image27.png  used on input line 164.
+
+(pdftex.def)             Requested size: 426.79135pt x 574.58061pt.
+
+
+LaTeX Warning: Float too large for page by 7.26071pt on input line 168.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[31]
+[31
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 356.
-
-
+]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
@@ -3344,25 +2015,54 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[33]
+[33 <./produtos/proddois/image27.png>]
+<produtos/proddois/image28.png, id=415, 371.3875pt x 499.8675pt>
+File: produtos/proddois/image28.png Graphic file (type png)
+<use produtos/proddois/image28.png>
+Package pdftex.def Info: produtos/proddois/image28.png  used on input line 180.
+
+(pdftex.def)             Requested size: 426.79135pt x 574.45416pt.
+
+
+LaTeX Warning: Float too large for page by 7.13426pt on input line 184.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[34]
+[34
+
+]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[35]
+[35 <./produtos/proddois/image28.png>]
+<produtos/proddois/image29.png, id=426, 430.60875pt x 580.1675pt>
+File: produtos/proddois/image29.png Graphic file (type png)
+<use produtos/proddois/image29.png>
+Package pdftex.def Info: produtos/proddois/image29.png  used on input line 194.
+
+(pdftex.def)             Requested size: 426.79135pt x 575.04037pt.
+
+
+LaTeX Warning: Float too large for page by 7.72047pt on input line 198.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[36]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[36
 
-
+]
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
@@ -3373,20 +2073,11 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
  []
 
 [38]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
 [39]
-Overfull \hbox (1.74532pt too wide) in paragraph at lines 522--523
-\T1/phv/m/n/10 Os es-ta-be-le-ci-men-tos par-ti-cu-la-res ge-ra-do-res de [][]R
-SS[] en-ca-mi-nham os re-sí-duos clas-si-fi-ca-dos como
- []
-
-
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
@@ -3397,11 +2088,6 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
  []
 
 [41]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 565.
-
-
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
@@ -3412,9 +2098,6 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
  []
 
 [43]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
@@ -3445,7 +2128,10 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
  []
 
 [49]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (24.63391pt too wide) in paragraph at lines 459--468
+ \T1/phv/m/n/10 REN-TES 18.768.200,00 De-du-ção para o FUN-DEB 2.368.200,00 RE-
+CEITA FI-NAL 16.400.000,00 
+ []
 
 
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
@@ -3463,17 +2149,11 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
  []
 
 [52]
-Overfull \hbox (10.18248pt too wide) in paragraph at lines 764--765
-[]\T1/phv/m/n/10 A re-gião su-deste é a que mais con-tri-bui para a des-ti-na-ç
-ão cor-reta, cerca de 251.158,37
- []
-
-
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[53]
+[53])
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
@@ -3483,1040 +2163,21 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[55]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[56]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[57]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[58]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[59]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[60]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[61]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[4
-
-
- <./src/layout/bottom.png>]
-=======
-[62]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[63]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[64]
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[5]
-=======
-[65]
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[6])
-\openout2 = `src/basic/apresentacao.aux'.
-
- (src/basic/apresentacao.tex
-=======
-[66]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[67]
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[7
-
-
-]
-=======
-[68]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[8]
-Overfull \hbox (26.05008pt too wide) in paragraph at lines 34--35
-[]\T1/phv/m/n/10 Roteiros para con-cre-ti-za-ção das in-ter-ven-ções se-le-ci-o
--na-das (mo-de-los tático-operacionais),
- []
-
-)
-=======
-[69]
-Underfull \vbox (badness 5189) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[9] (main.gls
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 1.
-)
-=======
-[70]
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[10
-
-
-
-]
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 35.
- (main.lof)
-=======
-[71]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1313.
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[11
-
-] (main.toc
-=======
-[72]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[73])
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[74] (main.bbl
+[55 <./produtos/proddois/image29.png>] (main.bbl
 bibitemlist
-
-LaTeX Warning: Empty `thebibliography' environment on input line 8.
-
-) (produm-apend.tex
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[12
-
-
-
-])
-=======
-[75
-
-
-] [76
-
-]
-
-LaTeX Font Warning: Font shape `TS1/phv/bx/sc' undefined
-(Font)              using `TS1/phv/bx/n' instead
-(Font)              for symbol `textordmasculine' on input line 57.
-
-LaTeX Font Info:    Font shape `TS1/phv/bx/n' in size <12> not available
-(Font)              Font shape `TS1/phv/b/n' tried instead on input line 57.
-
-Underfull \vbox (badness 1194) has occurred while \output is active []
-
- [77]
-LaTeX Font Info:    Font shape `TS1/phv/bx/sc' in size <12> not available
-(Font)              Font shape `TS1/phv/b/n' tried instead on input line 59.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[13]
-\openout2 = `src/basic/introducao.aux'.
-
- (src/basic/introducao.tex)
-=======
-[78]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[79]
-Overfull \hbox (1.6133pt too wide) in paragraph at lines 128--129
-\T1/phv/m/n/10 Sobre ge-ren-ci-a-mento de RCC, al-te-rada pe-las re-so-lu-ções 
-348/2004, 431/2011,
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[14
-
-]
-=======
-[80]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[81]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[15]
-\openout2 = `produtos/proddois.aux'.
-
- (produtos/proddois.tex
-<produtos/proddois/image16.png, id=299, 506.89375pt x 341.275pt>
-File: produtos/proddois/image16.png Graphic file (type png)
-<use produtos/proddois/image16.png>
-Package pdftex.def Info: produtos/proddois/image16.png  used on input line 9.
-(pdftex.def)             Requested size: 426.79135pt x 287.35121pt.
-=======
-[82]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
->>>>>>> pmgirs_alteracoes
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[16
-
-
- <./produtos/proddois/image16.png>]
-<produtos/proddois/image17.png, id=306, 390.45876pt x 524.96124pt>
-File: produtos/proddois/image17.png Graphic file (type png)
-<use produtos/proddois/image17.png>
-Package pdftex.def Info: produtos/proddois/image17.png  used on input line 19.
-(pdftex.def)             Requested size: 384.1096pt x 516.44505pt.
-=======
-[83]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[84]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
->>>>>>> pmgirs_alteracoes
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[17 <./produtos/proddois/image17.png>]
-=======
-[85]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[18]
-<produtos/proddois/image18.png, id=318, 339.2675pt x 174.6525pt>
-File: produtos/proddois/image18.png Graphic file (type png)
-<use produtos/proddois/image18.png>
-Package pdftex.def Info: produtos/proddois/image18.png  used on input line 41.
-(pdftex.def)             Requested size: 341.43437pt x 175.77402pt.
-<produtos/proddois/image19.png, id=319, 230.8625pt x 163.61125pt>
-File: produtos/proddois/image19.png Graphic file (type png)
-<use produtos/proddois/image19.png>
-Package pdftex.def Info: produtos/proddois/image19.png  used on input line 49.
-(pdftex.def)             Requested size: 341.43437pt x 241.99104pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-=======
-[86]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[87]
-Underfull \vbox (badness 1122) has occurred while \output is active []
->>>>>>> pmgirs_alteracoes
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[19 <./produtos/proddois/image18.png>]
-=======
-[88]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[20 <./produtos/proddois/image19.png>]
-=======
-[89]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[21]
-<produtos/proddois/image20.png, id=338, 428.60126pt x 268.00125pt>
-File: produtos/proddois/image20.png Graphic file (type png)
-<use produtos/proddois/image20.png>
-Package pdftex.def Info: produtos/proddois/image20.png  used on input line 84.
-(pdftex.def)             Requested size: 362.77525pt x 226.84113pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<produtos/proddois/image21.png, id=339, 393.47pt x 257.96375pt>
-File: produtos/proddois/image21.png Graphic file (type png)
-<use produtos/proddois/image21.png>
-Package pdftex.def Info: produtos/proddois/image21.png  used on input line 92.
-(pdftex.def)             Requested size: 362.77525pt x 237.83728pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<produtos/proddois/image22.png, id=340, 413.545pt x 221.82875pt>
-File: produtos/proddois/image22.png Graphic file (type png)
-<use produtos/proddois/image22.png>
-Package pdftex.def Info: produtos/proddois/image22.png  used on input line 100.
-
-(pdftex.def)             Requested size: 362.77525pt x 194.60062pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<produtos/proddois/image23.png, id=342, 360.34625pt x 180.675pt>
-File: produtos/proddois/image23.png Graphic file (type png)
-<use produtos/proddois/image23.png>
-Package pdftex.def Info: produtos/proddois/image23.png  used on input line 111.
-
-(pdftex.def)             Requested size: 362.77525pt x 181.89308pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-=======
-[90]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[91]
-Underfull \vbox (badness 1371) has occurred while \output is active []
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[92]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[93]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[94]
-Underfull \vbox (badness 10000) has occurred while \output is active []
->>>>>>> pmgirs_alteracoes
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[22]
-
-LaTeX Warning: Text page 23 contains only floats.
-=======
-[95]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 607.
->>>>>>> pmgirs_alteracoes
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[23 <./produtos/proddois/image20.png> <./produtos/proddois/image21.png>]
-=======
-[96]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[24 <./produtos/proddois/image22.png> <./produtos/proddois/image23.png>]
-<produtos/proddois/image24.png, id=361, 428.60126pt x 252.945pt>
-File: produtos/proddois/image24.png Graphic file (type png)
-<use produtos/proddois/image24.png>
-Package pdftex.def Info: produtos/proddois/image24.png  used on input line 122.
-
-(pdftex.def)             Requested size: 362.77525pt x 214.09724pt.
-<produtos/proddois/image25.png, id=362, 428.60126pt x 273.02pt>
-File: produtos/proddois/image25.png Graphic file (type png)
-<use produtos/proddois/image25.png>
-Package pdftex.def Info: produtos/proddois/image25.png  used on input line 130.
-
-(pdftex.def)             Requested size: 362.77525pt x 231.0891pt.
-
-=======
-[97]
-Underfull \vbox (badness 1648) has occurred while \output is active []
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[98]
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[25 <./produtos/proddois/image24.png> <./produtos/proddois/image25.png>]
-<produtos/proddois/image26.png, id=371, 390.45876pt x 207.77625pt>
-File: produtos/proddois/image26.png Graphic file (type png)
-<use produtos/proddois/image26.png>
-Package pdftex.def Info: produtos/proddois/image26.png  used on input line 150.
-
-(pdftex.def)             Requested size: 426.79135pt x 227.12154pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-=======
-[99]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[100]
-Underfull \vbox (badness 10000) has occurred while \output is active []
->>>>>>> pmgirs_alteracoes
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[26]
-=======
-[101]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[27 <./produtos/proddois/image26.png>]
-=======
-[102]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[28]
-<produtos/proddois/image27.png, id=386, 388.45125pt x 522.95375pt>
-File: produtos/proddois/image27.png Graphic file (type png)
-<use produtos/proddois/image27.png>
-Package pdftex.def Info: produtos/proddois/image27.png  used on input line 164.
-
-(pdftex.def)             Requested size: 426.79135pt x 574.58061pt.
-
-
-LaTeX Warning: Float too large for page by 7.26071pt on input line 168.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-=======
-[103]
-Overfull \hbox (1.6133pt too wide) in paragraph at lines 838--839
-\T1/phv/m/n/10 Sobre ge-ren-ci-a-mento de RCC, al-te-rada pe-las re-so-lu-ções 
-348/2004, 431/2011,
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[104]
-Underfull \vbox (badness 10000) has occurred while \output is active []
->>>>>>> pmgirs_alteracoes
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[29
-
-]
-=======
-[105]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[30]
-=======
-[106]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[31 <./produtos/proddois/image27.png>]
-<produtos/proddois/image28.png, id=402, 371.3875pt x 499.8675pt>
-File: produtos/proddois/image28.png Graphic file (type png)
-<use produtos/proddois/image28.png>
-Package pdftex.def Info: produtos/proddois/image28.png  used on input line 180.
-
-(pdftex.def)             Requested size: 426.79135pt x 574.45416pt.
-
-
-LaTeX Warning: Float too large for page by 7.13426pt on input line 184.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-=======
-[107]
-Overfull \hbox (4.08167pt too wide) in paragraph at lines 932--933
-\T1/phv/m/n/10 Estabelece os pro-ce-di-men-tos ope-ra-ci-o-nais do Pro-grama Mu
--ni-cí-pio Verde Azul,
- []
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[108]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[109]
-Underfull \vbox (badness 10000) has occurred while \output is active []
->>>>>>> pmgirs_alteracoes
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[32
-
-]
-=======
-[110]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[33 <./produtos/proddois/image28.png>]
-<produtos/proddois/image29.png, id=413, 430.60875pt x 580.1675pt>
-File: produtos/proddois/image29.png Graphic file (type png)
-<use produtos/proddois/image29.png>
-Package pdftex.def Info: produtos/proddois/image29.png  used on input line 194.
-
-(pdftex.def)             Requested size: 426.79135pt x 575.04037pt.
-
-
-LaTeX Warning: Float too large for page by 7.72047pt on input line 198.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-=======
-[111]
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[112]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[113]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[114]
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[34
-
-]
-=======
-[115]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[35]
-=======
-[116]
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[36]
-=======
-[117]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[37]
-=======
-[118]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[38]
-=======
-[119]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[39]
-=======
-[120]
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[40]
-=======
-[121]
-Underfull \vbox (badness 1371) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[41]
-=======
-[122]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[42]
-=======
-[123]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[43]
-=======
-[124]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[44]
-=======
-[125]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[45]
-=======
-[126]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[46]
-=======
-[127]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[47]
-Overfull \hbox (24.63391pt too wide) in paragraph at lines 459--468
- \T1/phv/m/n/10 REN-TES 18.768.200,00 De-du-ção para o FUN-DEB 2.368.200,00 RE-
-CEITA FI-NAL 16.400.000,00 
- []
-
-
-=======
-[128]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[129]) (produm-anexo.tex
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[130] [131
-
-]
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[48]
-=======
-[132]
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[49]
-=======
-[133]
-<produtos/produm/danielepub.png, id=3787, 927.465pt x 498.36188pt>
-File: produtos/produm/danielepub.png Graphic file (type png)
-<use produtos/produm/danielepub.png>
-Package pdftex.def Info: produtos/produm/danielepub.png  used on input line 71.
-
-(pdftex.def)             Requested size: 426.0pt x 228.90704pt.
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[50]
-=======
-[134 <./produtos/produm/danielepub.png>]
-<produtos/produm/estrategmobi.png, id=3793, 1111.90407pt x 557.83406pt>
-File: produtos/produm/estrategmobi.png Graphic file (type png)
-<use produtos/produm/estrategmobi.png>
-Package pdftex.def Info: produtos/produm/estrategmobi.png  used on input line 9
-2.
-(pdftex.def)             Requested size: 426.0pt x 213.72406pt.
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[51])
-=======
-[135 <./produtos/produm/estrategmobi.png>]
-<produtos/produm/estrategmobiarearural.png, id=3801, 885.3075pt x 520.19344pt>
-File: produtos/produm/estrategmobiarearural.png Graphic file (type png)
-<use produtos/produm/estrategmobiarearural.png>
-Package pdftex.def Info: produtos/produm/estrategmobiarearural.png  used on inp
-ut line 118.
-(pdftex.def)             Requested size: 426.0pt x 250.31706pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[52]
-=======
-[136]
-<produtos/produm/estrategmobiturista.png, id=3812, 836.3747pt x 453.19313pt>
-File: produtos/produm/estrategmobiturista.png Graphic file (type png)
-<use produtos/produm/estrategmobiturista.png>
-Package pdftex.def Info: produtos/produm/estrategmobiturista.png  used on input
- line 140.
-(pdftex.def)             Requested size: 426.0pt x 230.83499pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[53 <./produtos/proddois/image29.png>] (main.bbl
-bibitemlist
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 10.
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <10> not available
-(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 23.
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 10.
 )
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 73.
-
-
-=======
-[137 <./produtos/produm/estrategmobiarearural.png>]
-<produtos/produm/estrategmobijovem.png, id=3820, 903.375pt x 585.68813pt>
-File: produtos/produm/estrategmobijovem.png Graphic file (type png)
-<use produtos/produm/estrategmobijovem.png>
-Package pdftex.def Info: produtos/produm/estrategmobijovem.png  used on input l
-ine 154.
-(pdftex.def)             Requested size: 426.0pt x 276.19395pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+(hyperref)                be the same. Added a new anchor on input line 74.
 
 
 Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 [][] 
  []
 
-[138 <./produtos/produm/estrategmobiturista.png>]
->>>>>>> pmgirs_alteracoes
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-<<<<<<< HEAD
-[54
+[56
 
 
 ]
@@ -4524,12 +2185,12 @@ Overfull \hbox (79.66776pt too wide) has occurred while \output is active
 
  (src/layout/capafim.tex
 \capafimimage=\box83
-<src/layout/capafim.png, id=508, 597.87pt x 845.2305pt>
+<src/layout/capafim.png, id=516, 597.87pt x 845.2305pt>
 File: src/layout/capafim.png Graphic file (type png)
 <use src/layout/capafim.png>
 Package pdftex.def Info: src/layout/capafim.png  used on input line 10.
 (pdftex.def)             Requested size: 597.55835pt x 845.08656pt.
-) [55
+) [57
 
  <./src/layout/capafim.png>]
 \tf@lof=\write8
@@ -4538,24 +2199,24 @@ Package pdftex.def Info: src/layout/capafim.png  used on input line 10.
 \tf@toc=\write9
 \openout9 = `main.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 87.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 87.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
  (main.aux
 (src/layout/capa.aux) (src/basic/apresentacao.aux) (src/basic/introducao.aux)
 (produtos/proddois.aux) (src/layout/capafim.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 87.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 87.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 88.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 88.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 70AC4BF7E49A5FE89EDCEB7ADB369FC1;2944.
  ) 
 Here is how much of TeX's memory you used:
- 29578 strings out of 492895
- 548245 string characters out of 3123736
- 752892 words of memory out of 3000000
- 32794 multiletter control sequences out of 15000+200000
- 32197 words of font info for 39 fonts, out of 3000000 for 9000
+ 31608 strings out of 492895
+ 579249 string characters out of 3123736
+ 788154 words of memory out of 3000000
+ 34825 multiletter control sequences out of 15000+200000
+ 29307 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,17n,68p,2034b,653s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 71i,17n,68p,1994b,653s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{glo:agevap} has been referenced but does not exis
 t, replaced by a fixed one
 
@@ -4567,69 +2228,9 @@ C:/Users/Lucas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8
 a.pfb><C:/Users/Lucas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helveti
 c/uhvr8a.pfb><C:/Users/Lucas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
 helvetic/uhvro8a.pfb>
-Output written on main.pdf (55 pages, 9184977 bytes).
+Output written on main.pdf (57 pages, 9185281 bytes).
 PDF statistics:
- 554 PDF objects out of 1000 (max. 8388607)
+ 561 PDF objects out of 1000 (max. 8388607)
  114 named destinations out of 1000 (max. 500000)
  409 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
-[139 <./produtos/produm/estrategmobijovem.png>])
-Overfull \hbox (79.66776pt too wide) has occurred while \output is active
-[][] 
- []
-
-[140
-runsystem(makeindex -s main.ist -t main.glg -o main.gls main.glo)...executed (a
-llowed).
-
-]
-\tf@lof=\write8
-\openout8 = `main.lof'.
-
-\tf@loq=\write9
-\openout9 = `main.loq'.
-
-\tf@toc=\write10
-\openout10 = `main.toc'.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 62.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 62.
- (main.aux (src/layout/capa.aux) (src/basic/apresentacao.aux)
-(src/basic/introducao.aux) (produtos/prodtres.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 62.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 62.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: BD1F4ED406168E970BEDBB765D451E70;62130.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 62.
- ) 
-Here is how much of TeX's memory you used:
- 33729 strings out of 492895
- 611602 string characters out of 3123736
- 784339 words of memory out of 3000000
- 36103 multiletter control sequences out of 15000+200000
- 37654 words of font info for 41 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 67i,17n,69p,1993b,778s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/liks9/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
-}<C:/Users/liks9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmex10.pfb><C:/Users/liks9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmmi10.pfb><C:/Users/liks9/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/liks9/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/liks9/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/liks9/A
-ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
-Users/liks9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.p
-fb><C:/Users/liks9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/u
-hvr8a.pfb><C:/Users/liks9/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/hel
-vetic/uhvro8a.pfb>
-Output written on main.pdf (140 pages, 8516598 bytes).
-PDF statistics:
- 4066 PDF objects out of 4296 (max. 8388607)
- 961 named destinations out of 1000 (max. 500000)
- 5655 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> pmgirs_alteracoes
 
