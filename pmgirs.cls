@@ -27,6 +27,10 @@
 \usepackage{totalcount}
 \usepackage{colortbl}
 \usepackage{multirow}
+\usepackage{caption}
+
+\DeclareCaptionFont{captiontitle}{\color{captioncolor}}
+\captionsetup{labelfont={captiontitle,bf},textfont=captiontitle}
 
 \DeclareTotalCounter{figure}
 \DeclareTotalCounter{table}
@@ -460,4 +464,5 @@ contents={{\Large\textbf{\pagemark}}}
 \definecolor{title2}{RGB}{227,108,10}
 \definecolor{title3}{RGB}{89,89,89}
 \definecolor{capaprodmun}{RGB}{31,73,125}
+\definecolor{captioncolor}{RGB}{227,108,10}
 
