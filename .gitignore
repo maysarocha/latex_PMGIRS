@@ -20,3 +20,10 @@
 main.aux
 main.aux
 *.aux
+*.pdf
+*.log
+*.aux
+*.gz
+*.aux
+*.bbl
+main.log
