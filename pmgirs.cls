@@ -84,7 +84,7 @@
 
 \addto\captionsbrazil{
 	%% ajusta nomes padroes do babel
-	\renewcommand{\bibname}{Refer\^encias}
+	\renewcommand{\bibname}{\Large\bfseries REFER\^ENCIAS}
 	\renewcommand{\indexname}{\'Indice}
 	\renewcommand{\listfigurename}{Lista de ilustra\c{c}\~{o}es}
 	\renewcommand{\listtablename}{Lista de tabelas}
@@ -97,9 +97,9 @@
 	\renewcommand{\paragraphautorefname}{subse{\c c}\~ao}
 }
 
-\renewcommand{\printtoctitle}{\centering\LARGE\bfseries}
-\renewcommand{\printloftitle}{\centering\LARGE\bfseries}
-\renewcommand{\printlottitle}{\centering\LARGE\bfseries}
+\renewcommand{\printtoctitle}{\centering\Large\bfseries\MakeUppercase}
+\renewcommand{\printloftitle}{\centering\Large\bfseries\MakeUppercase}
+\renewcommand{\printlottitle}{\centering\Large\bfseries\MakeUppercase}
 
 \setlist{leftmargin=2cm}
 
@@ -344,7 +344,7 @@ contents={{\Large\textbf{\pagemark}}}
 % Novo list of (listings) para QUADROS
 
 \newcommand{\quadroname}{Quadro}
-\newcommand{\listofquadrosname}{\hfill\bfseries\Large Lista de Quadros\hfill}
+\newcommand{\listofquadrosname}{\hfill\bfseries\Large LISTA DE QUADROS\hfill}
 
 \newfloat[chapter]{quadro}{loq}{\quadroname}
 \newlistof{listofquadros}{loq}{\listofquadrosname}
