@@ -2,13 +2,15 @@
 
 \usepackage[alf]{abntex2cite}	% citacoes
 
-\usepackage{mhchem} %símbolos químicos
+\usepackage[version=4]{mhchem} %símbolos químicos
+\usepackage{placeins}%permite o uso do comendo \FloatBarrier, que auxilia a manter as tabelas n lugar correto - sem que o texto subsequente seja encaixado em espaços que não fariam sentido.
+\usepackage{lscape} %permite uso de imagens em landscape
+
 \usetikzlibrary{calc}
 \input{glossario.tex}
 \pagestyle{headfootimage}
 \makeglossaries
 \glsaddall
-\usepackage{lscape}
 \renewcommand{\arraystretch}{1.4} 
 \setlength{\parindent}{0cm}
 %Customizar de Acordo com o produto a ser submetido
