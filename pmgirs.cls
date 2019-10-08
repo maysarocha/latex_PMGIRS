@@ -29,7 +29,9 @@
 \usepackage{multirow}
 \usepackage{caption}
 \usepackage[version=4]{mhchem} %símbolos químicos
-\usetikzlibrary{calc}
+\usepackage[version=4]{mhchem} %símbolos químicos
+\usepackage{placeins}%permite o uso do comendo \FloatBarrier, que auxilia a manter as tabelas n lugar correto - sem que o texto subsequente seja encaixado em espaços que não fariam sentido.
+\usepackage{lscape} %permite uso de imagens em landscape
 
 \DeclareCaptionFont{captiontitle}{\color{captioncolor}}
 \captionsetup{labelfont={captiontitle,bf},textfont=captiontitle}
