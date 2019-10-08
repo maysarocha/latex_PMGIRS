@@ -3,6 +3,9 @@
 \usepackage[alf]{abntex2cite}	% citacoes
 
 \usepackage[version=4]{mhchem} %símbolos químicos
+\usepackage{placeins}%permite o uso do comendo \FloatBarrier, que auxilia a manter as tabelas n lugar correto - sem que o texto subsequente seja encaixado em espaços que não fariam sentido.
+\usepackage{lscape} %permite uso de imagens em landscape
+
 \usetikzlibrary{calc}
 \input{glossario.tex}
 \pagestyle{headfootimage}
@@ -72,17 +75,18 @@
 %
 %
 \let\cleardoublepage\clearpage
-%\addcontentsline{toc}{section}{Apêndices}
+\addcontentsline{toc}{section}{Apêndices}
 \apendices
 	\BeginNoToc
 	%\input{produm-apend}
+	\input{prodtres-apend}
 	\EndNoToc
 %
 \let\cleardoublepage\clearpage
 %\addcontentsline{toc}{section}{Anexos}
 \anexos
 	\BeginNoToc
-	%\input{produm-anexo}\thispagestyle{headfootimage}
+%	\input{produm-anexo}\thispagestyle{headfootimage}
 	\EndNoToc
 	\include{src/layout/capafim}
 
