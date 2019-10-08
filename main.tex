@@ -2,6 +2,9 @@
 
 \usepackage[alf]{abntex2cite}	% citacoes
 
+\usetikzlibrary{calc}
+
+
 \input{glossario.tex}
 \pagestyle{headfootimage}
 \makeglossaries
@@ -70,17 +73,18 @@
 %
 %
 \let\cleardoublepage\clearpage
-%\addcontentsline{toc}{section}{Apêndices}
+\addcontentsline{toc}{section}{Apêndices}
 \apendices
 	\BeginNoToc
 	%\input{produm-apend}
+	\input{prodtres-apend}
 	\EndNoToc
 %
 \let\cleardoublepage\clearpage
 %\addcontentsline{toc}{section}{Anexos}
 \anexos
 	\BeginNoToc
-	%\input{produm-anexo}\thispagestyle{headfootimage}
+%	\input{produm-anexo}\thispagestyle{headfootimage}
 	\EndNoToc
 	\include{src/layout/capafim}
 
