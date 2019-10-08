@@ -28,6 +28,8 @@
 \usepackage{colortbl}
 \usepackage{multirow}
 \usepackage{caption}
+\usepackage[version=4]{mhchem} %símbolos químicos
+\usetikzlibrary{calc}
 
 \DeclareCaptionFont{captiontitle}{\color{captioncolor}}
 \captionsetup{labelfont={captiontitle,bf},textfont=captiontitle}
